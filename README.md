@@ -1,4 +1,4 @@
-# SGM Zell/Hattenhofen | Infos Fussballjugend Jahrgang 2015+-1
+# SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang 2014, 2015 & 2016
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
@@ -18,9 +18,12 @@
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
-|Trainer|||
-|:--|:--|:--|
-|Matthias Geller|Alexander März|Heidrun Frey|
+|Trainer|Jahrgang|
+|:--|:--|
+|Heidrun Frey|2014|
+|Alexander März|2015|
+|Matthias Geller|2015|
+|Raffaele Abate|2016|
 
 ## Vereine/Links
 
