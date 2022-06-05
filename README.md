@@ -14,7 +14,7 @@
 
 |||
 |:--|:--|
-|**Freitags, 16:30 - 18:00**|Sportplatz <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>|
+|**Freitags, 16:30 - 18:00**|Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>|
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
