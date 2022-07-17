@@ -21,9 +21,8 @@ Während den Ferienzeiten findet idR. kein Training statt.
 |Trainer|Jahrgang|
 |:--|:--|
 |Heidrun Frey|2014|
-|Alexander März|2015|
-|Matthias Geller|2015|
-|Raffaele Abate|2016|
+|Alexander März|2015 & 2016|
+|Matthias Geller|2015 & 2016|
 
 ## Vereine/Links
 
