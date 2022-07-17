@@ -10,6 +10,12 @@
 |4|Sa, 22.10.2022|Sa, 06.05.2023|
 |5|Sa, 29.10.2022|Sa, 13.05.2023|
 
+## Zusätzliche Turniere
+
+|#|Wann|Was|Wo|Infos|
+|:--|:--|:--|:--|:--|
+|1|Sa. 23.07.2022|12. Zeller Berg<br/>Junioren Feldturnier 2022|[Sportgelände Zeller Berg<br/>73119 Zell unter Aichelberg](https://goo.gl/maps/adBif8bE646YN44J6)|- [Spielplan F1](/2022/2022.07.23-ZellerBerg-F1-Spielplan.pdf)<br/>- [Spielplan F2](/2022/2022.07.23-ZellerBerg-F2-Spielplan.pdf)<br/>- [Turnierbestimmungen](/2022/2022.07.23-ZellerBerg-Turnierbestimmungen.pdf)|
+
 ## Trainingszeiten
 
 |||
