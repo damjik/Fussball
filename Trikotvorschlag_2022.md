@@ -14,3 +14,4 @@
 |![Trikot 2](2022/Trikots/Trikot2.vorne.png "Trikot 2")|![Trikot 2](2022/Trikots/Trikot2.hinten.png "Trikot 2")|![Trikot 2](2022/Trikots/Trikot2.seite.png "Trikot 2")|
 |Typ 3|||
 |![Trikot 3](2022/Trikots/Trikot3.vorne.png "Trikot 3")|![Trikot 3](2022/Trikots/Trikot3.hinten.png "Trikot 3")|![Trikot 3](2022/Trikots/Trikot3.seite.png "Trikot 3")|
+|![Trikot 4](2022/Trikots/Trikot4.vorne.png "Trikot 4")|![Trikot 4](2022/Trikots/Trikot4.hinten.png "Trikot 4")|![Set 1](2022/Trikots/Trikot4.set.png "Set 4")|
