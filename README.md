@@ -26,9 +26,19 @@ Während den Ferienzeiten findet idR. kein Training statt.
 
 |Trainer|Jahrgang|
 |:--|:--|
-|Heidrun Frey|2014|
-|Alexander März|2015 & 2016|
-|Matthias Geller|2015 & 2016|
+|Markus Walther|2014 (F1)|
+|Alexander März|2015 & 2016 (F2 & Bambini)|
+|Matthias Geller|2015 & 2016 (F2 & Bambini)|
+|Heidrun Frey|Unterstützt Trainerteam|
+|Raymond Dakosi|Unterstützt Trainerteam|
+
+## Für Interessierte
+
+Interessierte Kinder können bei uns jederzeit mitmachen und sind immer herzlich willkommen.
+Nicht ganz so ***mutige*** Kinder dürfen sich natürlich auch gerne erst einmal ausprobieren und sich mit ihrem Tempo rantasten.
+
+Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwortet.
+Sollten sie vorab bereits Fragen haben, wenden sie sich bitte an matthias@geller-familie.de (0157 51575847).
 
 ## Vereine/Links
 
