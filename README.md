@@ -38,7 +38,7 @@ Interessierte Kinder können bei uns jederzeit mitmachen und sind immer herzlich
 Nicht ganz so ***mutige*** Kinder dürfen sich natürlich auch gerne erst einmal ausprobieren und sich mit ihrem Tempo rantasten.
 
 Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwortet.
-Sollten sie vorab bereits Fragen haben, wenden sie sich bitte an matthias@geller-familie.de (0157 51575847).
+Sollten sie vorab bereits Fragen haben, bitte an matthias@geller-familie.de (0157 51575847) wenden.
 
 ## Vereine/Links
 
