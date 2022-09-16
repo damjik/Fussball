@@ -2,13 +2,21 @@
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
-|#|**2022**|**2023**|
-|:--|:--|:--|
-|1|Sa, 24.09.2022|Sa, 01.04.2023|
-|2|Sa, 08.10.2022|Sa, 22.04.2023|
-|3|Sa, 15.10.2022|Sa, 29.04.2023|
-|4|Sa, 22.10.2022|Sa, 06.05.2023|
-|5|Sa, 29.10.2022|Sa, 13.05.2023|
+|#|2022|Info|Zeit & Spielort|
+|:--|:--|:--|:--|
+|1|Sa, 24.09.2022|keine Teilnahme||
+|2|Sa, 08.10.2022|[2014 (F1)](/2022/F1-SpT2-Gr7.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT2-Gr6.pdf), [2015 (F2 2)](/2022/F2-SpT2-Gr7.pdf)|09:00, TSV Wäschenbeuren, Maitiser Str.<br/>09:00, TSV Bad Boll, Sportgelände Erlengarten|
+|3|Sa, 15.10.2022|2014 (F1)<br/>[2015 (F2 I)](/2022/F2-SpT3-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT3-Gr4.pdf)|Noch nicht bekannt<br/>09:00, TV Deggingen, Am Mühlbach|
+|4|Sa, 22.10.2022|||
+|5|Sa, 29.10.2022|||
+
+|#|2023|Info|Spielort|
+|:--|:--|:--|:--|
+|1|Sa, 01.04.2023|||
+|2|Sa, 22.04.2023|||
+|3|Sa, 29.04.2023|||
+|4|Sa, 06.05.2023|||
+|5|Sa, 13.05.2023|||
 
 ## Zusätzliche Turniere
 
