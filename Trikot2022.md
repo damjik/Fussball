@@ -19,7 +19,7 @@ Stückzahlen:
 ![Trikot 2](2022/Trikots/Trikot2.seite.png "Trikot 2")
 
 
-##Logo Steilpass
+## Logo Steilpass
 
 ![Logo Steilpass](https://www.steilpass.com/wp-content/uploads/Steilpass_Logo_Brand_Consultants_RGB_PNG.png "Logo Steilpass")
 
