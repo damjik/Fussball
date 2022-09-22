@@ -8,6 +8,7 @@ Anforderungen:
 - Logo TSGV Hattenhofen auf Hose
 - Nummer auf Ärmel, optional, wenn kein Logo drauf ist...
 - Torwarttrikot gleicher Stil, langärmlig, schwarze Farbe mit kräftiger (poppiger) Farbe z.B. Pink austauschen
+- Ansonsten gilt halt, so dass es gut aussieht
 
 Stückzahlen:
 
