@@ -50,6 +50,14 @@ Nicht ganz so ***mutige*** Kinder dürfen sich natürlich auch gerne erst einmal
 Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwortet.
 Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de (0157 51575847) wenden.
 
+## Helferdienste
+|Datum|Dienst|Helfer|
+|:---|:---|:---|
+|So, 28.08.2022 14:45-17:15|Grilldienst|M.Geller|
+|Di, 01.11.2022 14:15-16:45|Grilldienst||
+|So, 12.03.2023 14:45-17:15|Grilldienst||
+|So, 21.05.2023 14:45-17:15|Grilldienst||
+
 ## Vereine/Links
 
 ||
