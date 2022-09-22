@@ -29,6 +29,8 @@
 |||
 |:--|:--|
 |**Freitags, 16:30 - 18:00**|Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>|
+|**Freitags, 16:30 - 18:00**|Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a>|
+
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
