@@ -25,3 +25,4 @@ Stückzahlen:
 
 ## Logo rdemi
 
+![Logo rdemi](https://scontent-muc2-1.xx.fbcdn.net/v/t39.30808-6/292762725_566418041550504_6525700409290096923_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=V8ISWpvwgskAX9PXdK1&_nc_ht=scontent-muc2-1.xx&oh=00_AT8mWy0H2cqWZosGlgz-dULk8-BavVt-S4vAg5brqBw0QA&oe=63325FC6 "Logo rdemi")
