@@ -3,10 +3,10 @@
 
 Anforderungen:
 
-- Kragenfarbe & Hosenfarbe wie Logo Steilpass
+- Kragenfarbe & Hosenfarbe wie Schriftfarbe des Steilpass Logo.
 - rdemi Logo auf Ärmel oder Hose
 - Logo TSGV Hattenhofen auf Hose
-- Nummer auf Ärmel, optional, wenn kein Logo
+- Nummer auf Ärmel, optional, wenn kein Logo drauf ist...
 - Torwarttrikot gleicher Stil, langärmlig, schwarze Farbe mit kräftiger (poppiger) Farbe z.B. Pink austauschen
 
 Stückzahlen:
