@@ -12,8 +12,8 @@ Anforderungen:
 
 Stückzahlen:
 
-- 3 x Torwarttrikot (Nr. jeweils 01)
-- 2 Sätze à 10 (Nr. 02-11)
+- 3 x Torwarttrikot (Nr. jeweils 01) : Größen 2x140 & 152 (Jhrg 2015 & 2016 tauglich)
+- 2 Sätze à 10 (Nr. 02-11) : Größen 140 & 152 (Jhrg 2015 & 2016 tauglich)
 
 ![Trikot 2](2022/Trikots/Trikot2.vorne.png "Trikot 2")
 ![Trikot 2](2022/Trikots/Trikot2.hinten.png "Trikot 2")
