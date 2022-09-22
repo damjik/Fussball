@@ -15,3 +15,9 @@
 |Typ 3|||
 |![Trikot 3](2022/Trikots/Trikot3.vorne.png "Trikot 3")|![Trikot 3](2022/Trikots/Trikot3.hinten.png "Trikot 3")|![Trikot 3](2022/Trikots/Trikot3.seite.png "Trikot 3")|
 |![Trikot 4](2022/Trikots/Trikot4.vorne.png "Trikot 4")|![Trikot 4](2022/Trikots/Trikot4.hinten.png "Trikot 4")|![Set 1](2022/Trikots/Trikot4.set.png "Set 4")|
+
+## Trikots Flo 
+
+![Flo 1](2022/Trikots/pic1.jpeg "Flo 1")
+![Flo 2](2022/Trikots/pic2.jpeg "Flo 2")
+![Flo 3](2022/Trikots/pic3.jpeg "Flo 3")
