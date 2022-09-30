@@ -42,6 +42,12 @@ Während den Ferienzeiten findet idR. kein Training statt.
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
 |Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
 
+## Trainingsbeteiligung
+
+16.09.2022 ~ 35 Kinder  
+23.09.2022 ~ 25 Kinder  
+30.09.2022 ~ 30 Kinder
+
 ## Für Interessierte
 
 Interessierte Kinder können bei uns jederzeit mitmachen und sind immer herzlich willkommen.
