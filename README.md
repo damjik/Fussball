@@ -29,6 +29,8 @@
 |||
 |:--|:--|
 |**Freitags, 16:30 - 18:00**|Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>|
+|**Freitags, 16:30 - 18:00**|Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a>|
+
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
@@ -40,6 +42,12 @@ Während den Ferienzeiten findet idR. kein Training statt.
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
 |Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
 
+## Trainingsbeteiligung
+
+16.09.2022 ~ 35 Kinder  
+23.09.2022 ~ 25 Kinder  
+30.09.2022 ~ 30 Kinder
+
 ## Für Interessierte
 
 Interessierte Kinder können bei uns jederzeit mitmachen und sind immer herzlich willkommen.
@@ -47,6 +55,14 @@ Nicht ganz so ***mutige*** Kinder dürfen sich natürlich auch gerne erst einmal
 
 Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwortet.
 Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de (0157 51575847) wenden.
+
+## Helferdienste
+|Datum|Dienst|Helfer|
+|:---|:---|:---|
+|So, 28.08.2022 14:45-17:15|Grilldienst|M.Geller|
+|Di, 01.11.2022 14:15-16:45|Grilldienst||
+|So, 12.03.2023 14:45-17:15|Grilldienst||
+|So, 21.05.2023 14:45-17:15|Grilldienst||
 
 ## Vereine/Links
 
