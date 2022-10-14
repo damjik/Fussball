@@ -48,6 +48,8 @@ Während den Ferienzeiten findet idR. kein Training statt.
 16.09.2022 ~ 35 Kinder  
 23.09.2022 ~ 25 Kinder  
 30.09.2022 ~ 30 Kinder
+07.09.2022 ~ 30 Kinder
+14.10.2022 ~ 25 Kinder
 
 ## Für Interessierte
 
