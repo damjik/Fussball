@@ -6,9 +6,9 @@
 |:--|:--|:--|:--|
 |1|Sa, 24.09.2022|keine Teilnahme||
 |2|Sa, 08.10.2022|[2014 (F1)](/2022/F1-SpT2-Gr7.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT2-Gr6.pdf), [2015 (F2 2)](/2022/F2-SpT2-Gr7.pdf)|09:00, TSV Wäschenbeuren, Maitiser Str.<br/>09:00, TSV Bad Boll, Sportgelände Erlengarten|
-|3|Sa, 15.10.2022|2014 (F1)<br/>[2015 (F2 I)](/2022/F2-SpT3-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT3-Gr4.pdf)|Noch nicht bekannt<br/>09:00, TV Deggingen, Am Mühlbach|
+|3|Sa, 15.10.2022|2014 (F1)<br/>[2015 (F2 I)](/2022/F2-SpT3-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT3-Gr4.pdf)|Kein Spieltermin verfügbar<br/>09:00, TV Deggingen, Am Mühlbach|
 |4|Sa, 22.10.2022|[2014 (F1)](/2022/F1-SpT4-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT4-Gr1.pdf), [2015 (F2 2)](/2022/F2-SpT4-Gr2.pdf)|09:00, Eislingen, Sportplatz KSG Eislingen<br/>09:00, Ebersbach/Fils, Kunstrasen Strut|
-|5|Sa, 29.10.2022|||
+|5|Sa, 29.10.2022|[2014 (F1)](/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
 
 |#|2023|Info|Spielort|
 |:--|:--|:--|:--|
@@ -37,10 +37,11 @@ Während den Ferienzeiten findet idR. kein Training statt.
 |Trainer|Jahrgang|
 |:--|:--|
 |Markus Walter|2014 (F1)|
+|Markus |2014 (F1)|
 |Alexander März|2015 & 2016 (F2 & Bambini)|
 |Matthias Geller|2015 & 2016 (F2 & Bambini)|
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
-|Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
+|Raymond Rakosi|Unterstützt das Trainerteam sporadisch|
 
 ## Trainingsbeteiligung
 
