@@ -24,6 +24,17 @@
 |:--|:--|:--|:--|:--|
 |1|Sa. 23.07.2022|12. Zeller Berg<br/>Junioren Feldturnier 2022|[Sportgelände Zeller Berg<br/>73119 Zell unter Aichelberg](https://goo.gl/maps/adBif8bE646YN44J6)|- [Spielplan F1](/2022/2022.07.23-ZellerBerg-F1-Spielplan.pdf)<br/>- [Spielplan F2](/2022/2022.07.23-ZellerBerg-F2-Spielplan.pdf)<br/>- [Turnierbestimmungen](/2022/2022.07.23-ZellerBerg-Turnierbestimmungen.pdf)|
 
+## Turnieroptionen
+
+- [ ] Kuchen, Bambini 2016 Samstag, 17.12.2022 vormittags (3er Teams)
+- [ ] Kuchen, F2 (U8) 2015 Samstag, 17.12.2022 nachmittags (5 + 1)
+- [ ] Kuchen, F1 (U9) 2014 Sonntag, 18.12.2022 (5 + 1)
+- [ ] Owen, Samstag 14. Januar 2023 vormittags, Bambini (Jahrgang 2016 und jünger) 
+- [ ] Owen, Sonntag 15. Januar 2023 vormittags, F-Junioren (Jahrgang 2014 und jünger) 
+- [ ] Wernau, Samstag 21.01.2023, Knirpse / F2-Jugend (U8) Jahrgang 2015
+- [ ] Wernau, Sonntag 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
+- [ ] Wernau, Samstag 11.02.2023, Bambini (U7) Jahrgang 2016 und jünger
+
 ## Trainingszeiten
 
 |||
