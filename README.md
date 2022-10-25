@@ -74,10 +74,10 @@ Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de 
 ## Helferdienste
 |Datum|Dienst|Helfer|
 |:---|:---|:---|
-|So, 28.08.2022 14:45-17:15|Grilldienst|M.Geller|
-|Di, 01.11.2022 14:15-16:45|Grilldienst||
+|So, 28.08.2022 14:45-17:15|Grilldienst|Fam. Geller (Matti)|
+|So, 30.10.2022 14:15-16:45|Grilldienst|Fam. Böhm (Flo)|
 |So, 12.03.2023 14:45-17:15|Grilldienst||
-|So, 21.05.2023 14:45-17:15|Grilldienst||
+|So, 21.05.2023 14:45-17:15|Grilldienst|Fam. Walther (Andy)|
 
 ## Vereine/Links
 
