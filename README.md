@@ -34,6 +34,8 @@
 - [ ] Wernau, Samstag 21.01.2023, Knirpse / F2-Jugend (U8) Jahrgang 2015
 - [ ] Wernau, Sonntag 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
 - [ ] Wernau, Samstag 11.02.2023, Bambini (U7) Jahrgang 2016 und jünger
+- [ ] Grübingen, Samstag, 14.01.2023, Bambini Jahrgang 2016 und jünger (vormittags)
+- [ ] Grübingen, Sonntag, 15.01.2023, F-Junioren Jahrgang 2014 und jünger (nachmittags)
 
 ## Trainingszeiten
 
