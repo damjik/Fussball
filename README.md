@@ -23,6 +23,7 @@
 |#|Wann|Was|Wo|Infos|
 |:--|:--|:--|:--|:--|
 |1|Sa. 23.07.2022|12. Zeller Berg<br/>Junioren Feldturnier 2022|[Sportgelände Zeller Berg<br/>73119 Zell unter Aichelberg](https://goo.gl/maps/adBif8bE646YN44J6)|- [Spielplan F1](/2022/2022.07.23-ZellerBerg-F1-Spielplan.pdf)<br/>- [Spielplan F2](/2022/2022.07.23-ZellerBerg-F2-Spielplan.pdf)<br/>- [Turnierbestimmungen](/2022/2022.07.23-ZellerBerg-Turnierbestimmungen.pdf)|
+|2|Sa. 12.11.2022|Kleines Trainingsspiel gegen Bezgenriet|Hattenhofen Sportplatz|3 Spielstationen + Spiele|
 
 ## Turnieroptionen
 
@@ -65,7 +66,10 @@ Während den Ferienzeiten findet idR. kein Training statt.
 30.09.2022 ~ 30 Kinder  
 07.09.2022 ~ 30 Kinder  
 14.10.2022 ~ 25 Kinder  
-21.10.2022 ~ 25 Kinder  
+21.10.2022 ~ 25 Kinder
+28.10.2022 ~ 25 Kinder
+11.11.2022 ~ 20 Kinder  
+18.11.2022 ~ 30 Kinder (1. Hallentraining)
 
 ## Für Interessierte
 
