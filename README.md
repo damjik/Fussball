@@ -66,8 +66,8 @@ Während den Ferienzeiten findet idR. kein Training statt.
 30.09.2022 ~ 30 Kinder  
 07.09.2022 ~ 30 Kinder  
 14.10.2022 ~ 25 Kinder  
-21.10.2022 ~ 25 Kinder
-28.10.2022 ~ 25 Kinder
+21.10.2022 ~ 25 Kinder  
+28.10.2022 ~ 25 Kinder  
 11.11.2022 ~ 20 Kinder  
 18.11.2022 ~ 30 Kinder (1. Hallentraining)
 
