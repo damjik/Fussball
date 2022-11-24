@@ -30,12 +30,14 @@
 - [ ] Kuchen, Bambini 2016 Samstag, 17.12.2022 vormittags (3er Teams)
 - [ ] Kuchen, F2 (U8) 2015 Samstag, 17.12.2022 nachmittags (5 + 1)
 - [ ] Kuchen, F1 (U9) 2014 Sonntag, 18.12.2022 (5 + 1)
-- [ ] Owen, Samstag 14.01.2023 vormittags, Bambini (Jahrgang 2016 und jünger)
+- [ ] Owen, Samstag, 14.01.2023 vormittags, Bambini (Jahrgang 2016 und jünger)
 - [ ] Grübingen, Samstag, 14.01.2023, Bambini Jahrgang 2016 und jünger (vormittags)
-- [ ] Owen, Sonntag 15.01.2023 vormittags, F-Junioren (Jahrgang 2014 und jünger)
+- [ ] Owen, Sonntag, 15.01.2023 vormittags, F-Junioren (Jahrgang 2014 und jünger)
 - [ ] Grübingen, Sonntag, 15.01.2023, F-Junioren Jahrgang 2014 und jünger (nachmittags)
 - [ ] Wernau, Samstag, 21.01.2023, Knirpse / F2-Jugend (U8) Jahrgang 2015
-- [ ] Wernau, Sonntag, 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
+- [ ] Reichenbach/Fils, Samstag, 21.01.2023, F-Junioren (10 bis 13 Uhr) Jahrgang 2014, Knirpse (14 bis 17 Uhr) Jahrgang 2015
+- [ ] Wernau, Sonntag, Sonntag, 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
+- [ ] Reichenbach/Fils, Sonntag, 22.01.2023, Bambini (10 bis 13 Uhr) Jahrgang 2016
 - [ ] Wernau, Samstag, 11.02.2023, Bambini (U7) Jahrgang 2016 und jünger
 - [ ] Albershausen, Samstag, 11.02.2023, für F2 Junioren Jahrgang 2015 und jünger (vormittags)
 - [ ] Albershausen, Sonntag, 12.02.2023, für F1-Junioren Jahrgang 2014 und jünger (vormittags)
