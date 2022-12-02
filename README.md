@@ -38,6 +38,9 @@
 - [ ] Reichenbach/Fils, Samstag, 21.01.2023, F-Junioren (10 bis 13 Uhr) Jahrgang 2014, Knirpse (14 bis 17 Uhr) Jahrgang 2015
 - [ ] Wernau, Sonntag, Sonntag, 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
 - [ ] Reichenbach/Fils, Sonntag, 22.01.2023, Bambini (10 bis 13 Uhr) Jahrgang 2016
+- [ ] Wäschenbeuren, Sonntag, 05.02.2023 09:00 – 12:00 Uhr F1– Junioren Jahrgänge 2014/2015
+- [ ] Wäschenbeuren, Sonntag, 05.02.2023 12:30 – 15:30 Uhr Bambini Jahrgänge 2016 und jünger
+- [ ] Wäschenbeuren, Sonntag, 05.02.2023 16:00 – 19:00 Uhr F2 – Junioren Jahrgänge 2014/2015
 - [ ] Wernau, Samstag, 11.02.2023, Bambini (U7) Jahrgang 2016 und jünger
 - [ ] Albershausen, Samstag, 11.02.2023, für F2 Junioren Jahrgang 2015 und jünger (vormittags)
 - [ ] Albershausen, Sonntag, 12.02.2023, für F1-Junioren Jahrgang 2014 und jünger (vormittags)
