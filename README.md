@@ -10,13 +10,13 @@
 |4|Sa, 22.10.2022|[2014 (F1)](/2022/F1-SpT4-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT4-Gr1.pdf), [2015 (F2 2)](/2022/F2-SpT4-Gr2.pdf)|09:00, Eislingen, Sportplatz KSG Eislingen<br/>09:00, Ebersbach/Fils, Kunstrasen Strut|
 |5|Sa, 29.10.2022|[2014 (F1)](/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
 
-|#|2023|Info|Spielort|
-|:--|:--|:--|:--|
-|1|Sa, 22.04.2023|||
-|2|Sa, 29.04.2023|||
-|3|Sa, 06.05.2023|||
-|4|Sa, 13.05.2023|||
-|5|Sa, 20.05.2023|||
+|#|2023|Info|
+|:--|:--|:--|
+|1|Sa, 22.04.2023| [Hier klicken](/2023)|
+|2|Sa, 29.04.2023||
+|3|Sa, 06.05.2023||
+|4|Sa, 13.05.2023||
+|5|Sa, 20.05.2023||
 
 ## Zusätzliche Turniere
 
