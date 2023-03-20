@@ -2,6 +2,16 @@
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
+|#|2023|Info|
+|:--|:--|:--|
+|1|Sa, 22.04.2023| [Hier klicken](/2023) |
+|2|Sa, 29.04.2023| [Hier klicken](/2023) |
+|3|Sa, 06.05.2023| [Hier klicken](/2023) |
+|4|Sa, 13.05.2023| [Hier klicken](/2023) |
+|5|Sa, 20.05.2023| [Hier klicken](/2023) |
+|-|Sa, 08.07.2023| Turnier auf dem Zeller Berg |
+
+
 |#|2022|Info|Zeit & Spielort|
 |:--|:--|:--|:--|
 |1|Sa, 24.09.2022|keine Teilnahme||
@@ -10,13 +20,6 @@
 |4|Sa, 22.10.2022|[2014 (F1)](/2022/F1-SpT4-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT4-Gr1.pdf), [2015 (F2 2)](/2022/F2-SpT4-Gr2.pdf)|09:00, Eislingen, Sportplatz KSG Eislingen<br/>09:00, Ebersbach/Fils, Kunstrasen Strut|
 |5|Sa, 29.10.2022|[2014 (F1)](/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
 
-|#|2023|Info|
-|:--|:--|:--|
-|1|Sa, 22.04.2023| [Hier klicken](/2023) |
-|2|Sa, 29.04.2023| [Hier klicken](/2023) |
-|3|Sa, 06.05.2023| [Hier klicken](/2023) |
-|4|Sa, 13.05.2023| [Hier klicken](/2023) |
-|5|Sa, 20.05.2023| [Hier klicken](/2023) |
 
 ## Zusätzliche Turniere
 
@@ -26,26 +29,6 @@
 |2|Sa. 12.11.2022|Kleines Trainingsspiel gegen Bezgenriet|Hattenhofen Sportplatz|3 Spielstationen + Spiele|
 
 ## Turnieroptionen
-
-- [ ] Kuchen, Bambini 2016 Samstag, 17.12.2022 vormittags (3er Teams)
-- [ ] Kuchen, F2 (U8) 2015 Samstag, 17.12.2022 nachmittags (5 + 1)
-- [ ] Kuchen, F1 (U9) 2014 Sonntag, 18.12.2022 (5 + 1)
-- [ ] Owen, Samstag, 14.01.2023 vormittags, Bambini (Jahrgang 2016 und jünger)
-- [ ] Grübingen, Samstag, 14.01.2023, Bambini Jahrgang 2016 und jünger (vormittags)
-- [ ] Owen, Sonntag, 15.01.2023 vormittags, F-Junioren (Jahrgang 2014 und jünger)
-- [ ] Grübingen, Sonntag, 15.01.2023, F-Junioren Jahrgang 2014 und jünger (nachmittags)
-- [ ] Wernau, Samstag, 21.01.2023, Knirpse / F2-Jugend (U8) Jahrgang 2015
-- [ ] Reichenbach/Fils, Samstag, 21.01.2023, F-Junioren (10 bis 13 Uhr) Jahrgang 2014, Knirpse (14 bis 17 Uhr) Jahrgang 2015
-- [ ] Wernau, Sonntag, Sonntag, 22.01.2023, F1-Jugend (U9) Jahrgang 2011 und jünger
-- [ ] Reichenbach/Fils, Sonntag, 22.01.2023, Bambini (10 bis 13 Uhr) Jahrgang 2016
-- [ ] Schlierbach, Bambini am Samstag Vormittag (04.02.2023)
-- [ ] Schlierbach, F2-Jugend am Sonntag Vormittag (05.02.2023)
-- [ ] Wäschenbeuren, Sonntag, 05.02.2023 09:00 – 12:00 Uhr F1– Junioren Jahrgänge 2014/2015
-- [ ] Wäschenbeuren, Sonntag, 05.02.2023 12:30 – 15:30 Uhr Bambini Jahrgänge 2016 und jünger
-- [ ] Wäschenbeuren, Sonntag, 05.02.2023 16:00 – 19:00 Uhr F2 – Junioren Jahrgänge 2014/2015
-- [ ] Wernau, Samstag, 11.02.2023, Bambini (U7) Jahrgang 2016 und jünger
-- [ ] Albershausen, Samstag, 11.02.2023, für F2 Junioren Jahrgang 2015 und jünger (vormittags)
-- [ ] Albershausen, Sonntag, 12.02.2023, für F1-Junioren Jahrgang 2014 und jünger (vormittags)
 
 ## Trainingszeiten
 
@@ -61,22 +44,11 @@ Während den Ferienzeiten findet idR. kein Training statt.
 |:--|:--|
 |Markus Walter|2014 (F1)|
 |Markus Koch|2014 (F1)|
-|Alexander März|2015 & 2016 (F2 & Bambini)|
-|Matthias Geller|2015 & 2016 (F2 & Bambini)|
+|Alexander März|2015 & 2016  und jünger (F2 & Bambini)|
+|Matthias Geller|2015 & 2016  und jünger (F2 & Bambini)|
+|Timo Hermann|Unterstützt 2016 und jünger (Bambini)|
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
-|Raymond Rakosi|Unterstützt das Trainerteam sporadisch|
-
-## Trainingsbeteiligung
-
-16.09.2022 ~ 35 Kinder  
-23.09.2022 ~ 25 Kinder  
-30.09.2022 ~ 30 Kinder  
-07.09.2022 ~ 30 Kinder  
-14.10.2022 ~ 25 Kinder  
-21.10.2022 ~ 25 Kinder  
-28.10.2022 ~ 25 Kinder  
-11.11.2022 ~ 20 Kinder  
-18.11.2022 ~ 30 Kinder (1. Hallentraining)
+|Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
 
 ## Für Interessierte
 
@@ -87,11 +59,13 @@ Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwor
 Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de (0157 51575847) wenden.
 
 ## Helferdienste
+
 |Datum|Dienst|Helfer|
 |:---|:---|:---|
 |So, 28.08.2022 14:45-17:15|Grilldienst|Fam. Geller (Matti)|
 |So, 30.10.2022 14:15-16:45|Grilldienst|Fam. Böhm (Flo)|
-|So, 12.03.2023 14:45-17:15|Grilldienst||
+|So, 11.03.2023 14:45-17:15|Grilldienst|Fam. Acar (Hasan)|
+|So, 12.03.2023 14:45-17:15|Grilldienst|Fam. Struck (Elvira)|
 |So, 30.04.2023 14:45-17:15|Grilldienst|Fam. Walther (Andy)|
 
 ## Vereine/Links
