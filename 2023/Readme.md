@@ -13,12 +13,13 @@
 
 ## Spieltag 2 - Sa, 29.04.2023
 
+***Wir sind Ausrichter des Spieltag***
 
 | Team         | Jahrgang  | Ort/Verein         | Uhrzeit | Sonstiges                | #Spieler |
 | :----------- | :-------- | :----------------- |:------  |:------------------------ | :------- |
-| Bambini I&II | 2016-2018 |                    | 09:00   |                          | >= 6     |
-| F2 I&II      | 2015      |                    | 09:00   |                          | >= 10    |
-| F1 I         | 2014      |                    | 09:00   |                          | >= 5     |
+| Bambini I&II | 2016-2018 | TSGV Hattenhofen   | 09:00   | Sportplatz               | >= 6     |
+| F2 I&II      | 2015      | TSGV Hattenhofen   | 09:00   | Sportplatz               | >= 10    |
+| F1 I         | 2014      | TSGV Hattenhofen   | 09:00   | Sportplatz               | >= 5     |
 
 ## Spieltag 3 - Sa, 06.05.2023
 
