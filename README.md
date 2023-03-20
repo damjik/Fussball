@@ -79,5 +79,5 @@ Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de 
 ||||
 |--:|:--|:--|
 |[SGM Zell/Hattenhofen](https://sgm-zell-hattenhofen.de/)|<img src="cropped-SGM-Zell_Hattenhofen-2.jpg" height="30" />||
-||<img src="logo_zua.png" height="30" />|[TSG ZELL u.A.](https://www.tsg-zell-fussball.de/)|
+||<img src="logo_zua.png" height="30" />|[TSG ZELL u.A.](https://www.tsg-zell.de/)|
 ||<img src="logo-hat.gif" height="30" />|[TSGV Hattenhofen](https://tsgv-hattenhofen.de/)|
