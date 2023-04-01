@@ -31,11 +31,11 @@
 
 ## Spieltag 4 - Sa, 13.05.2023
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2016-2018 |            | 09:00   |           | >= 6     |
-| F2 I&II      | 2015      |            | 09:00   |           | >= 10    |
-| F1 I         | 2014      |            | 09:00   |           | >= 5     |
+| Team         | Jahrgang  | Ort/Verein      | Uhrzeit | Sonstiges  | #Spieler |
+| :----------- | :-------- | :-------------- | :------ | :--------- | :------- |
+| Bambini I&II | 2016-2018 | 1. Göppinger SV | 09:00   | Stadion    | >= 6     |
+| F2 I&II      | 2015      | TSV Schlierbach | 09:00   | Kunstrasen | >= 10    |
+| F1 I         | 2014      | 1. FC Heiningen | 09:00   | Kunstrasen | >= 5     |
 
 ## Spieltag 5 - Sa, 20.05.2023
 
