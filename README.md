@@ -9,7 +9,7 @@
 |3|Sa, 06.05.2023| [Hier klicken](/2023) |
 |4|Sa, 13.05.2023| [Hier klicken](/2023) |
 |5|Sa, 20.05.2023| [Hier klicken](/2023) |
-|-|Sa, 08.07.2023| Turnier auf dem Zeller Berg |
+|6|Sa, 08.07.2023| Turnier auf dem Zeller Berg |
 
 
 |#|2022|Info|Zeit & Spielort|
