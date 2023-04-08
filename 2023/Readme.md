@@ -39,8 +39,8 @@
 
 ## Spieltag 5 - Sa, 20.05.2023
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2016-2018 |            | 09:00   |           | >= 6     |
-| F2 I&II      | 2015      |            | 09:00   |           | >= 10    |
-| F1 I         | 2014      |            | 09:00   |           | >= 5     |
+| Team         | Jahrgang  | Ort/Verein           | Uhrzeit | Sonstiges                | #Spieler |
+| :----------- | :-------- | :------------------- | :------ | :----------------------- | :------- |
+| Bambini I&II | 2016-2018 | 1. FC Rechberghausen | 09:00   | Sportgelände Lindach     | >= 6     |
+| F2 I&II      | 2015      | TSV Bad Boll         | 09:00   | Sportgelände Erlengarten | >= 10    |
+| F1 I         | 2014      | 1. FC Rechberghausen | 09:00   | Sportgelände Lindach     | >= 5     |
