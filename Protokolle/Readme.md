@@ -74,7 +74,7 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 
 ## 125 Jahre TSGV Hattenhofen
 
-- Eub Jubiläums T-Shirt wird vereinsübergreifend für alle Jugendlichen vom TSGV gesponsert.
+- Ein Jubiläums T-Shirt wird vereinsübergreifend für alle Jugendlichen vom TSGV gesponsert.
 - **Bis 1.5. von jeder Jugend Rückmeldung an Sabine, wieviele T-Shirt + Größen. Betreuuer bezahlen 5.-€. Zusätzliche Shirts gibt es zum Selbstkostenpreis.**
 
 ## Sportgerätschaften wurden geliefert
