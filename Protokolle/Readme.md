@@ -6,6 +6,10 @@
 - [ ] markiert ein TODO
 - [x] markiert ein erledigtes TODO
 
+## Protokoll
+
+- Matthias Geller am 24.04.2023
+
 ## Topics
 
 - Wichtige Termine
@@ -101,16 +105,16 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 
 ## Trainer/Spielerliste
 
-| Gruppen | Saison | Jahrgang | Trainer                                                                                      | Anzahl Spieler |
-| :------ | :----- | :------- | :------------------------------------------------------------------------------------------- | :------------- |
-| A       | 23/24  |          | Marcel, Robin Braun, Astrid Hucchi, Sigge Kallis                                             |                |
-| B       | 23/24  |          | Claudio, Frank                                                                               |                |
-| C       | 23/24  |          | Mario, Luki, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch |                |
-| D       | 23/24  |          | Michael Hock, Thomas, Muhamer                                                                |                |
-| E       | 23/24  | 2014     | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11             |
-| F1      | 23/24  | 2015     | Alex März, Matthias Geller,                                                                  | 18             |
-| F2      | 23/24  | 2016     | ?                                                                                            | 7              |
-| Bambini | 23/24  | < 2016   | ?                                                                                            | 9              |
+| Gruppen | Saison | Jahrgang        | Trainer                                                                                      | Anzahl Spieler |
+| :------ | :----- | :-------------- | :------------------------------------------------------------------------------------------- | :------------- |
+| A       | 23/24  | 2006/2005 (U19) | Marcel, Robin Braun, Astrid Hucchi, Sigge Kallis                                             |                |
+| B       | 23/24  | 2008/2007 (U17) | Claudio, Frank                                                                               |                |
+| C       | 23/24  | 2010/2009 (U15) | Mario, Luki, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch |                |
+| D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                |                |
+| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        |                |
+| F1      | 23/24  | 2015            | Alex März, Matthias Geller,                                                                  | 18             |
+| F2      | 23/24  | 2016            | ?                                                                                            | 7              |
+| Bambini | 23/24  | 2016 und jünger | ?                                                                                            | 9              |
 
 - Info: Vereinzelt wurden Trainer unter Verdacht bzw. in Abwesenheit des Trainers eingetragen. Bitte prüfen.
 - [ ] Anzahl Kinder bitte bis **1.Mai** in die Trainer Gruppe schreiben.
@@ -135,7 +139,3 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 ## Anwesend
 
 - ca. 10 Trainer aus Zell u.A., Hattenhofen und Holzmaden + Sabine B. und Dierk K.
-
-## Protokoll
-
-- Matthias Geller
