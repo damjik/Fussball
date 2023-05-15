@@ -79,7 +79,7 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 
 ## Sportgerätschaften wurden geliefert
 
-- [ ] Geräte werden fair geteilt (übernimmt Marcel)
+- [x] Geräte werden fair geteilt (übernimmt Marcel)
 - [ ] Markus W. prüft
   - [ ] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig?
   - [ ] transportablen/kleineren Toren ausreichend vorhanden? Sind vorhanden in Garage in Hattenhofen.
