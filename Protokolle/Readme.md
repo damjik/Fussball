@@ -9,6 +9,7 @@
 ## Protokoll
 
 - Matthias Geller am 24.04.2023
+  - letzte Änderung: 15.05.2023
 
 ## Topics
 
