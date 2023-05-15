@@ -97,7 +97,9 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 - Markus Walter : Zukünftige E-Jugend wird ab nächster Saison 2 Mal trainieren.
   - Für Feldrunde in Hattenhofen quasi immer möglich.
   - Hallenrunde zum jetzigen Zeitpunkt nicht planbar.
-- [ ] Aufschlüsselung Sportplatzbelegung/Trainingzeiten mit Ansprechpartnern etc. wünschenswert (Sabine B.)
+- [x] Aufschlüsselung Sportplatzbelegung/Trainingzeiten mit Ansprechpartnern etc. wünschenswert (Sabine B.) 
+![IMG-20230426-WA0002](https://github.com/damjik/Fussball/assets/29385791/8eebac7b-2566-43a5-a8d8-5c35ac28ebe3)
+  Stand: 26.04.2023 TBD: Namen D2 muss Lukasz Majowski heißen
 
 ## Wechselfrist
 
@@ -107,8 +109,8 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 
 | Gruppen | Saison | Jahrgang        | Trainer                                                                                      | Anzahl Spieler |
 | :------ | :----- | :-------------- | :------------------------------------------------------------------------------------------- | :------------- |
-| A       | 23/24  | 2006/2005 (U19) | Marcel, Robin Braun, Astrid Hucchi, Sigge Kallis                                             |                |
-| B       | 23/24  | 2008/2007 (U17) | Claudio, Frank                                                                               |                |
+| A       | 23/24  | 2006/2005 (U19) | Marcel, Robin Braun, Astrid Hucchi, Sigge Kallis                                             | 12             |
+| B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank                                                                        | 10 (+1?)       |
 | C       | 23/24  | 2010/2009 (U15) | Mario, Luki, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch |                |
 | D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                |                |
 | E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        |                |
