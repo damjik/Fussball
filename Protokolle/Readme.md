@@ -81,11 +81,11 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 ## Sportgerätschaften wurden geliefert
 
 - [x] Geräte werden fair geteilt (übernimmt Marcel)
-- [ ] Markus W. prüft
-  - [ ] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig?
-  - [ ] transportablen/kleineren Toren ausreichend vorhanden? Sind vorhanden in Garage in Hattenhofen.
-  - [ ] "Torvorhang" für Torschußübungen vohanden in Hattenhofen?
-    [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
+- [x] Markus W. prüft
+  - [x] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig? Torhaken sind **nicht/nicht ausreichend** vorhanden.
+  - [x] transportablen/kleineren Toren ausreichend vorhanden? transportabel ist ein vorhanden in Garage in Hattenhofen. Kleine Tore ok (2 Netze kaputt).
+  - [x] "Torvorhang" für Torschußübungen vohanden in Hattenhofen? nope/nicht gefunden.
+    - [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
 - Sabine organisiert noch
   - [ ] 3-4 Softbälle für Markus W.
 
@@ -114,7 +114,7 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 | B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                               | 10 (+1?)       |
 | C       | 23/24  | 2010/2009 (U15) | Mario Scroppo, Lukasz Majowski, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | ? |
 | D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                | ?              |
-| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11 Hattenhofen/Zell + ? Holzmaden |
+| E       | 23/24  | 2014/2013 (U11) | Zell/Hattenhofen: Markus Walter, Markus Koch, Markus Müller, Holzmaden/Ohmden: Mark Kächele, Michael Bayerl, Stefanie K. | 11 Hattenhofen/Zell + ? Holzmaden |
 | F1      | 23/24  | 2015            | Alexander März, Matthias Geller, Ray, Mario Daubner                                          | 18             |
 | F2      | 23/24  | 2016            | ?                                                                                            | 7              |
 | Bambini | 23/24  | 2016 und jünger | ?                                                                                            | 9              |
