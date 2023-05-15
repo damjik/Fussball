@@ -113,7 +113,7 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 | B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                               | 10 (+1?)       |
 | C       | 23/24  | 2010/2009 (U15) | Mario Scroppo, Lukasz Majowski, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | ? |
 | D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                | ?              |
-| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11 Zell + ? Holzmaden |
+| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11 Hattenhofen/Zell + ? Holzmaden |
 | F1      | 23/24  | 2015            | Alexander März, Matthias Geller, Ray, Mario Daubner                                          | 18             |
 | F2      | 23/24  | 2016            | ?                                                                                            | 7              |
 | Bambini | 23/24  | 2016 und jünger | ?                                                                                            | 9              |
