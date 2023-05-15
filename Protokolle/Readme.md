@@ -109,18 +109,18 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 
 | Gruppen | Saison | Jahrgang        | Trainer                                                                                      | Anzahl Spieler |
 | :------ | :----- | :-------------- | :------------------------------------------------------------------------------------------- | :------------- |
-| A       | 23/24  | 2006/2005 (U19) | Marcel, Robin Braun, Astrid Hucchi, Sigge Kallis                                             | 12             |
-| B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank                                                                        | 10 (+1?)       |
-| C       | 23/24  | 2010/2009 (U15) | Mario, Luki, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch |                |
-| D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                |                |
-| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        |                |
-| F1      | 23/24  | 2015            | Alex März, Matthias Geller,                                                                  | 18             |
+| A       | 23/24  | 2006/2005 (U19) | Marcel Heer, Robin Braun, Astrid Hucchi, Sigge Kallis (, Max Wöhrle?)                        | 12             |
+| B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                               | 10 (+1?)       |
+| C       | 23/24  | 2010/2009 (U15) | Mario Scroppo, Lukasz Majowski, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | ? |
+| D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                | ?              |
+| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11 Zell + ? Holzmaden |
+| F1      | 23/24  | 2015            | Alexander März, Matthias Geller, Ray, Mario Daubner                                          | 18             |
 | F2      | 23/24  | 2016            | ?                                                                                            | 7              |
 | Bambini | 23/24  | 2016 und jünger | ?                                                                                            | 9              |
 
 - Info: Vereinzelt wurden Trainer unter Verdacht bzw. in Abwesenheit des Trainers eingetragen. Bitte prüfen.
-- [ ] Anzahl Kinder bitte bis **1.Mai** in die Trainer Gruppe schreiben.
-  - [ ] Protokoll ergänzen/verbessern
+- [x] Anzahl Kinder bitte bis **1.Mai** in die Trainer Gruppe schreiben.
+  - [x] Protokoll ergänzen/verbessern (Stand: 15.05.2023)
 
 ## Spielpläne/Spielorte (auch zukünftig)
 
