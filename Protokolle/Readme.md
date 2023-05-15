@@ -109,7 +109,7 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 
 | Gruppen | Saison | Jahrgang        | Trainer                                                                                      | Anzahl Spieler |
 | :------ | :----- | :-------------- | :------------------------------------------------------------------------------------------- | :------------- |
-| A       | 23/24  | 2006/2005 (U19) | Marcel Heer, Robin Braun, Astrid Hucchi, Sigge Kallis (, Max Wöhrle?)                        | 12             |
+| A       | 23/24  | 2006/2005 (U19) | Marcel Heer, Robin Braun, Astrit Guci, Sigge Kallis (, Max Wöhrle?)                          | 12             |
 | B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                               | 10 (+1?)       |
 | C       | 23/24  | 2010/2009 (U15) | Mario Scroppo, Lukasz Majowski, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | ? |
 | D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                | ?              |
