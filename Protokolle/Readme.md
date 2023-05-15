@@ -1,52 +1,41 @@
 **Hinweis vorab:**  
-- Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.  
-- Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden.
+- Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.
 - [ ] markiert ein TODO
 - [x] markiert ein erledigtes TODO
 
-## Sitzungen
+## <a id="sitzungen"></a> Sitzungen
 
 Nächste Sitzung 03.07.2023 19:30Uhr
 
-- [Trainersitzung 2023-05-15](ts2)
-- [Trainersitzung 2023-04-24](ts1)
+- [Trainersitzung 2023-05-15](#ts2)
+- [Trainersitzung 2023-04-24](#ts1)
 
-# <a href="ts2"> Trainersitzung 2023-05-15
-
-**Hinweis vorab:**
-- Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.  
-- Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden.
-- [ ] markiert ein TODO
-- [x] markiert ein erledigtes TODO
+# <a id="ts2"></a> Trainersitzung 2023-05-15
 
 ## Protokoll
 
 - Matthias Geller am 15.05.2023
+- [ ] Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden (Matthias).
 
 ## Topics
 
-- Spielorte/-meldungen zukünftig
+- Wichtige Termine
+- Spielorte/-meldungen 2023/24
 - Homepages
 - C2 abmelden
 - Unterstützung Eltern
 - Interner Zusammenhalt
+- Reorganisation Doings
 
-## Interner Zusammenhalt
+## Wichtige Termine
 
-- Anriffe untereinander und übereinader dürfen nicht einreißen
-- Reflexion Mario
+| Wer                                          | Bis Wann | Was (Details siehe einzelne Topics)                                          |
+| :------------------------------------------- | :------- | :--------------------------------------------------------------------------- |
+| Trainer, Jugendleiter,...                    | 03. Juni | Nächste Sitzung : **03.Juni.2023, 19:30Uhr**                                 |
+| Alle Trainer                                 | 30. Juni | Ende der Wechselfrist                                                        |
+| D-Jugend Trainer, Organisatoren, Freiwillige | 15. Juli | D-Jugend Turnier (sponsored by Allianz)                                      |
 
-## Unterstützung Eltern
-
-- [ ] Für kommende Saison : Aufforderung verpflichtender Termine/Dienste (Dierk)
-- Anmerkung Mario: Sehr schwierig zu organisieren
-
-## C2 abmelden
-
-- [ ] C2 abmelden (Achim)
-- Info: Schwierig Termine zu verschieben, ...
-
-## Spielorte/-meldungen zukünftig
+## Spielorte/-meldungen 2023/24
 
 - [ ] A: Zell und Hattenhofen (Meldet Zell Marcel)
 - [ ] B: Zell und Hattenhofen (Meldet Zell Marcel)
@@ -58,19 +47,50 @@ Nächste Sitzung 03.07.2023 19:30Uhr
 - [ ] F2: Hattenhofen (Meldet Sabine)
 - [ ] Bambini: Hattenhofen (Meldet Sabine)
 
+Weitere Infos siehe [Protokoll 2023-04-24 Trainer/Spielerliste](#sais23_24)
+
+Zu Vorschlag von Andreas,  Spielerlisten gesammelt zur Verfügung zu stellen, um Orga "Meldungen" verbessern zu können:
+  - bereits über z.B. DFB.net (inkl. "Leichen") möglich
+  - Spielerlisten werden von Trainern geführt und können intern (jederzeit) zur Verfügung gestellt werden. Datenschutzbestimmungen beachten, ...
 
 ## Homepages
 
 - [ ] Alte HP SGM Link rausnehmen (organisiert Dierk)
-- [ ] Holzmaden VereinsHP Trainingszeiten listen oder verweisen (Michael Hock => Infos von Achim bzw. HP TSGV)
+- [ ] Holzmaden VereinsHP Trainingszeiten listen oder darauf verweisen (Michael Hock => Infos von Achim bzw. HP TSGV)
 
+Weitere Infos: [Protokoll 2023-04-24 Sportplatzbelegung](#belegung2023)
+
+## C2 abmelden
+
+- [ ] C2 abmelden (Achim)
+- Info: Schwierig Termine zu verschieben, ...
+
+## Unterstützung Eltern
+
+- [ ] Für kommende Saison : Schreiben mit Info zu 1-2 verpflichtenden Diensten (Dierk)
+  - Anmerkung Mario: Dienste sind schwierig zu organisieren (zeitaufwendig, ...)
+  - Anmerkung Dierk: Dienste fest verteilen. Eltern sollen/müssen Dienste selbst organisieren; sollte es zu terminlichen Konflikten kommen, müssen die betroffenen Eltern selbstständig Ersatz suchen...
+
+## Interner Zusammenhalt
+
+- Reflexion Mario: Zum Vorwurf/Angriff von Matthias bei letzter Trainingssitzung bzgl. "zu harter" Trainingseinheit in Schule.
+  - Schule gab Rückmeldung, dass der Vorwurf unbegründet ist und war.
+- Bitte für die Zukunft: Angriffe untereinander dürfen nicht einreißen bzw. müssen aufhören.
+
+## Reorganisation Doings
+
+- Auf urspünglichen Wunsch/Vorschlag nach einem Training von Frank und Claudio, organisatorische Aufgaben ggf. auf mehreren Schultern zu verteilen, bitte von Matthias:
+  - [ ] dass sich hierzu jeder Interessierte bis zum nächsten Termin Gedanken macht, wie wir organisatorische Aufgaben ggf. geschickt(er) reduzieren/verteilen können.
+    - z.B. klare Ansprechpartner mit kompletter Expertise zu einzelnen Themen.
+  - [ ] gerne auch alternative Ideen was uns in diesem Thema weiterbringt (z.B. den Aufwand für den einzelnen reduziert).
 
 ## Anwesend
 
 - ca. 8 Trainer aus Zell u.A., Hattenhofen und Holzmaden + Andreas Liebrich, Sabine B. und Dierk K.
 
+[Übersicht Sitzungen](#sitzungen)
 
-# <a href="ts1"> Trainersitzung 2023-04-24
+# <a id="ts1"></a> Trainersitzung 2023-04-24
 
 ## Protokoll
 
@@ -147,11 +167,13 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 ## Sportgerätschaften wurden geliefert
 
 - [x] Geräte werden fair geteilt (übernimmt Marcel)
-- [ ] Markus W. prüft
-  - [ ] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig?
-  - [x] transportablen/kleineren Toren ausreichend vorhanden? Sind vorhanden in Garage in Hattenhofen.
-  - [x] "Torvorhang" für Torschußübungen vohanden in Hattenhofen? wurde besorgt.
-    [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
+- [x] Markus W. prüft
+  - [x] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig? Torhaken sind **nicht/nicht ausreichend** vorhanden.
+  - [x] transportable/kleinere Tore ausreichend vorhanden?
+    - Ein transportabeles Tor ist in der Garage in Hattenhofen vorhanden. 
+    - Kleine Tore sind ok (2 Netze kaputt => wird beim nächsten Tausch von großen Netzen repariert).
+  - [x] "Torvorhang" für Torschußübungen vohanden in Hattenhofen? Wurde gekauft und wird im Hattenhofen verfügbar sein.
+    - [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
 - Sabine organisiert noch
   - [x] 3-4 Softbälle für Markus W.. wurde besorgt
 
@@ -159,7 +181,7 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 
 - [x] Wird von Achim W. abgesagt, da kaum Anmeldungen (übergreifend 6 Mannschaften)
 
-## Sportplatzbelegung
+## <a id="belegung2023"></a> Sportplatzbelegung
 
 - Markus Walter : Zukünftige E-Jugend wird ab nächster Saison 2 Mal trainieren.
   - Für Feldrunde in Hattenhofen quasi immer möglich.
@@ -172,7 +194,7 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 
 Nicht vergessen **Saisonabschluß ist Ende Juni**
 
-## Trainer/Spielerliste
+## <a id="sais23_24"></a> Trainer/Spielerliste
 
 | Gruppen | Saison | Jahrgang        | Trainer                                                                                                                        | Anzahl Spieler                        |
 | :------ | :----- | :-------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
@@ -208,3 +230,5 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 ## Anwesend
 
 - ca. 10 Trainer aus Zell u.A., Hattenhofen und Holzmaden + Sabine B. und Dierk K.
+
+[Übersicht Sitzungen](#sitzungen)
