@@ -1,10 +1,76 @@
-# Trainersitzung 2023-04-24
-
 **Hinweis vorab:**  
 - Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.  
 - Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden.
 - [ ] markiert ein TODO
 - [x] markiert ein erledigtes TODO
+
+## Sitzungen
+
+Nächste Sitzung 03.07.2023 19:30Uhr
+
+- [Trainersitzung 2023-05-15](ts2)
+- [Trainersitzung 2023-04-24](ts1)
+
+# <a href="ts2"> Trainersitzung 2023-05-15
+
+**Hinweis vorab:**
+- Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.  
+- Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden.
+- [ ] markiert ein TODO
+- [x] markiert ein erledigtes TODO
+
+## Protokoll
+
+- Matthias Geller am 15.05.2023
+
+## Topics
+
+- Spielorte/-meldungen zukünftig
+- Homepages
+- C2 abmelden
+- Unterstützung Eltern
+- Interner Zusammenhalt
+
+## Interner Zusammenhalt
+
+- Anriffe untereinander und übereinader dürfen nicht einreißen
+- Reflexion Mario
+
+## Unterstützung Eltern
+
+- [ ] Für kommende Saison : Aufforderung verpflichtender Termine/Dienste (Dierk)
+- Anmerkung Mario: Sehr schwierig zu organisieren
+
+## C2 abmelden
+
+- [ ] C2 abmelden (Achim)
+- Info: Schwierig Termine zu verschieben, ...
+
+## Spielorte/-meldungen zukünftig
+
+- [ ] A: Zell und Hattenhofen (Meldet Zell Marcel)
+- [ ] B: Zell und Hattenhofen (Meldet Zell Marcel)
+- [ ] C: Zell und Holzmaden (Meldung Zell Sabine)
+- [ ] D: Holzmaden Hauptspielort (Meldet Michael Hock)
+- [ ] E: Holzmaden 2 Mannschaften (Meldet Michael Hock)
+- [ ] E: Zell 1 Mannschaft (Meldet Sabine).
+- [ ] F1: Hattenhofen (Meldet Sabine)
+- [ ] F2: Hattenhofen (Meldet Sabine)
+- [ ] Bambini: Hattenhofen (Meldet Sabine)
+
+
+## Homepages
+
+- [ ] Alte HP SGM Link rausnehmen (organisiert Dierk)
+- [ ] Holzmaden VereinsHP Trainingszeiten listen oder verweisen (Michael Hock => Infos von Achim bzw. HP TSGV)
+
+
+## Anwesend
+
+- ca. 8 Trainer aus Zell u.A., Hattenhofen und Holzmaden + Andreas Liebrich, Sabine B. und Dierk K.
+
+
+# <a href="ts1"> Trainersitzung 2023-04-24
 
 ## Protokoll
 
@@ -47,10 +113,10 @@
   - Malte Meißner
   - Felix Reuter
 - [x] Einladungen Spielplan.
-- [ ] Turnierleitung organisieren.
-- [ ] Schiedsrichter organisieren.
+- [x] Turnierleitung organisieren. von Fabi Karg
+- [x] Schiedsrichter organisieren. 
   - Sabine kommt auf uns zu, falls keine gefunden werden
-- [ ] Einladungen müssen verschickt werden. 
+- [x] Einladungen müssen verschickt werden. 
   - Teilnehmer bisher: Jesingen,. Eislingen, ... 10 + 2 Mannschaften.
   - Max. 16 Mannschaften möglich.
   - Es spielt neuer D-Jugend Jahrgang (unter Vorbehalt).
@@ -58,8 +124,8 @@
 ## Turnieraufsichtsschulung
 
 Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer. 
-- [ ] Location in Klärung (Sabine).
-- [ ] Zeitpunkt in Klärung (Sabine).
+- [x] Location in Klärung (Sabine).
+- [x] Zeitpunkt in Klärung (Sabine).
 
 ## Bericht Dierk, 4er SGM
 
@@ -83,15 +149,15 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
 - [x] Geräte werden fair geteilt (übernimmt Marcel)
 - [ ] Markus W. prüft
   - [ ] Torhaken sind vorhanden, ggf. noch Beschwerungen notwendig?
-  - [ ] transportablen/kleineren Toren ausreichend vorhanden? Sind vorhanden in Garage in Hattenhofen.
-  - [ ] "Torvorhang" für Torschußübungen vohanden in Hattenhofen?
+  - [x] transportablen/kleineren Toren ausreichend vorhanden? Sind vorhanden in Garage in Hattenhofen.
+  - [x] "Torvorhang" für Torschußübungen vohanden in Hattenhofen? wurde besorgt.
     [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
 - Sabine organisiert noch
-  - [ ] 3-4 Softbälle für Markus W.
+  - [x] 3-4 Softbälle für Markus W.. wurde besorgt
 
 ## Jugendturnier Zeller Berg 8.Juli
 
-- [ ] Wird von Achim W. abgesagt, da kaum Anmeldungen (übergreifend 6 Mannschaften)
+- [x] Wird von Achim W. abgesagt, da kaum Anmeldungen (übergreifend 6 Mannschaften)
 
 ## Sportplatzbelegung
 
@@ -108,16 +174,16 @@ Nicht vergessen **Saisonabschluß ist Ende Juni**
 
 ## Trainer/Spielerliste
 
-| Gruppen | Saison | Jahrgang        | Trainer                                                                                      | Anzahl Spieler |
-| :------ | :----- | :-------------- | :------------------------------------------------------------------------------------------- | :------------- |
-| A       | 23/24  | 2006/2005 (U19) | Marcel Heer, Robin Braun, Astrit Guci, Sigge Kallis (, Max Wöhrle?)                          | 12             |
-| B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                               | 10 (+1?)       |
-| C       | 23/24  | 2010/2009 (U15) | Mario Scroppo, Lukasz Majowski, Marius Remmler (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | ? |
-| D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas, Muhamer                                                                | ?              |
-| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Mark Kächele, Michael Bayerl, Stefanie K.                        | 11 Hattenhofen/Zell + ? Holzmaden |
-| F1      | 23/24  | 2015            | Alexander März, Matthias Geller, Ray, Mario Daubner                                          | 18             |
-| F2      | 23/24  | 2016            | ?                                                                                            | 7              |
-| Bambini | 23/24  | 2016 und jünger | ?                                                                                            | 9              |
+| Gruppen | Saison | Jahrgang        | Trainer                                                                                                                        | Anzahl Spieler                        |
+| :------ | :----- | :-------------- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
+| A       | 23/24  | 2006/2005 (U19) | Marcel Heer, Robin Braun, Astrit Guci, Sigge Kallis (, Max Wöhrle?)                                                            | 12                                    |
+| B       | 23/24  | 2008/2007 (U17) | Claudio Pippia, Frank Dressler                                                                                                 | 10 (+2?) + 10                         |
+| C       | 23/24  | 2010/2009 (U15) | Mario Scroppo (C1), Lukasz Majowski (C2), Marius Remmler (C2) (Hinweis: Eine C2 wird es ohne D nicht geben) 2010er kommen hoch | 16 (2009) 11 (2010) 5 (2011) : 2x11er Mädchenmannschaft geplant (Luki) |
+| D       | 23/24  | 2012/2011 (U13) | Michael Hock, Thomas Häberle, Muhamer                                                                                          | 22 1x9er & 1x7er?                     |
+| E       | 23/24  | 2014/2013 (U11) | Markus Walter, Markus Koch, Markus (Zell), Mark Kächele, Simon, Michael Bayerl, Stefanie K. (Holzmaden)                        | 11 Hattenhofen/Zell + 20 Holzmaden    |
+| F1      | 23/24  | 2015            | Alexander März, Matthias Geller, Ray, Mario Daubner                                                                            | 18                                    |
+| F2      | 23/24  | 2016            | ?                                                                                                                              | 7                                     |
+| Bambini | 23/24  | 2016 und jünger | Timo Hermann?                                                                                                                  | 9                                     |
 
 - Info: Vereinzelt wurden Trainer unter Verdacht bzw. in Abwesenheit des Trainers eingetragen. Bitte prüfen.
 - [x] Anzahl Kinder bitte bis **1.Mai** in die Trainer Gruppe schreiben.
