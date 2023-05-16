@@ -31,15 +31,15 @@ Nächste Sitzung 03.07.2023 19:30Uhr
 
 | Wer                                          | Bis Wann | Was (Details siehe einzelne Topics)                                          |
 | :------------------------------------------- | :------- | :--------------------------------------------------------------------------- |
-| Trainer, Jugendleiter,...                    | 03. Juni | Nächste Sitzung : **03.Juni.2023, 19:30Uhr**                                 |
 | Alle Trainer                                 | 30. Juni | Ende der Wechselfrist                                                        |
+| Trainer, Jugendleiter,...                    | 03. Juli | Nächste Sitzung : **03.Juli.2023, 19:30Uhr**                                 |
 | D-Jugend Trainer, Organisatoren, Freiwillige | 15. Juli | D-Jugend Turnier (sponsored by Allianz)                                      |
 
 ## Spielorte/-meldungen 2023/24
 
 - [ ] A: Zell und Hattenhofen (Meldet Zell Marcel)
 - [ ] B: Zell und Hattenhofen (Meldet Zell Marcel)
-- [ ] C: Zell und Holzmaden (Meldung Zell Sabine)
+- [ ] C: Zell und Holzmaden (Meldung Zell Achim)
 - [ ] D: Holzmaden Hauptspielort (Meldet Michael Hock)
 - [ ] E: Holzmaden 2 Mannschaften (Meldet Michael Hock)
 - [ ] E: Zell 1 Mannschaft (Meldet Sabine).
