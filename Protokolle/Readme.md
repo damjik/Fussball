@@ -62,7 +62,7 @@ Weitere Infos: [Protokoll 2023-04-24 Sportplatzbelegung](#belegung2023)
 
 ## C2 abmelden
 
-- [ ] C2 abmelden (Achim)
+- [x] C2 abmelden (Achim) : erledigt 16.05.2023
 - Info: Schwierig Termine zu verschieben, ...
 
 ## Unterstützung Eltern
