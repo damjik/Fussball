@@ -9,7 +9,8 @@
 |3|Sa, 06.05.2023| [Hier klicken](/2023) |
 |4|Sa, 13.05.2023| [Hier klicken](/2023) |
 |5|Sa, 20.05.2023| [Hier klicken](/2023) |
-|6|Sa, 08.07.2023| Turnier auf dem Zeller Berg |
+|6|Sa, 08.07.2023| ~~Turnier auf dem Zeller Berg~~ (leider abgesagt) |
+|7|Sa, 08.07.2023| Turnier REWE Günter Cup Bernhausen (Nachmittags) |
 
 
 |#|2022|Info|Zeit & Spielort|
