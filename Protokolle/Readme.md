@@ -5,10 +5,98 @@
 
 ## <a id="sitzungen"></a> Sitzungen
 
-Nächste Sitzung 03.07.2023 19:30Uhr
+Nächste Sitzung : Noch nicht vereinbart
 
+- [Trainersitzung 2023-07-03](#ts3)
 - [Trainersitzung 2023-05-15](#ts2)
 - [Trainersitzung 2023-04-24](#ts1)
+
+# <a id="ts3"></a> Trainersitzung 2023-07-03
+
+## Protokoll
+
+- Matthias Geller am 03.07.2023
+
+## Topics
+
+- Altpapiersammlung
+- D-Jugend Turnier
+- Traingsbekleidung
+- Infobrief an Eltern
+- Beschaffungen
+- Trikotsponsoring
+- Mannschaftsmeldungen
+- Zeller E-Jugend Tor
+- B-Jugend
+
+### Altpapiersammlung
+
+1. Juli Altpapier Sammlung (3-4 Fahrzeuge) A & B Jugend (Zell) 
+- Marcel hat es bereits eingestellt
+- Hilfe-Bitte von Marcel, wer sich beteiligen kann, gerne: Prinzipiell ab C-Jugend möglich, ...
+- Start 08:30 Uhr. Autos/Traktoren organisiert
+  - 4 Personen pro Fahrzeug (~12-15 Personen)
+
+### D-Jugend Turnier am 15. abgesagt
+
+- Grund: Mangel an Anmeldungen
+
+### Traingsbekleidung
+
+- Sport Holl (Daniel)
+- selbstständig
+- 80€/Jahr pro Trainer bis spätestens Oktober (Rechnung an Sabine)
+
+### Infobrief an Eltern (Dienste)
+
+- [ ] SGM (Dierk K.) setzt schreiben auf
+  - zusätzliche Punkte, wie z.B. Grilldienst, Platz streuen, ... mit aufnehmen
+  - kleiner Nachsatz aufnehmen, Kinder/Jugendliche sind gern gesehen, aber bitte Tore aufräumen
+
+### Beschaffungen
+
+- [ ] Sabine bestellt 2 Tore für Zell : Tore werden organisiert für Zell (über Kasse SGM)
+- [ ] Mario organisiert 12 + 8 Bälle vom Sport Holl (Direkt bei Daniel)
+  - Michael & Matthias geben bis Mittwoch Abend (05.07.) Bescheid, ob <= D-Jugend Bälle benötigen.
+
+### Trikotsponsoring
+
+- SGM darf Spendenbescheinigungen ausstellen
+- Bevorzugtes Verfahren: Sponsor begleicht Rechnungen für Sponsoringartikel direkt
+- SGM Sponsoringvertrag
+  - Ab "September" 2023 neuer Sponsor SGM : Mario Scroppo (750€/Jahr)
+  - Zweiter Sponsor prinzipiell OK
+
+### Mannschaftsmeldungen
+
+- Auftsiegsmannschaft melden (Eine Mannscaft pro Jahrgang, Pokal beide)
+- Achim benötigt noch den Spielerstamm. Bis 14.07. kann gemeldet werden.
+- Ergänzungen:
+  - [ ] B Juniorinnen: Zell/Holzmaden (Michael Hock) (auf Holzmaden)
+  - [ ] Pokalmeldungen (B, C, A-Jugenden)
+
+### Zeller E-Jugend Tor
+
+- Muss noch in Hattenhofen abgeholt werden, reicht aber nach Jubiläumsfeier
+- [ ] Sabine organisiert
+
+### B-Jugend
+
+- Ingolf hat mit Claudio telefoniert
+  - zu "Trainerwechsel"; SGM Hattenhofen war außen vor;
+    - Frank Linsenmaier & Sebastian Götz neuer Trainer
+    - Claudio macht als Trainer nicht mehr weiter
+    - Marius Remmler, Dierk und Frank L.
+    - Sabine : Vorgehensweise wird von Hattenhofen stark bemängelt
+      - Konsequenzen für Sabine aktuell nicht klar; 4er SGM wird sie so nicht mittragen
+      - Es werden vermutlich 8 Spieler nach Boll wechseln
+  - Claudio macht definitiv nicht weiter
+  - Rückmeldung Spieler (Wechselwünsche von Spielern)
+  - SGM kriegt ggf. keine Mannschaft zusammen, 12 + 2 Spieler Extra
+
+### Sonstiges
+
+- Vertrag noch in Ausarbeitung
 
 # <a id="ts2"></a> Trainersitzung 2023-05-15
 
@@ -37,12 +125,12 @@ Nächste Sitzung 03.07.2023 19:30Uhr
 
 ## Spielorte/-meldungen 2023/24
 
-- [ ] A: Zell und Hattenhofen (Meldet Zell Marcel)
-- [ ] B: Zell und Hattenhofen (Meldet Zell Marcel)
-- [ ] C: Zell und Holzmaden (Meldung Zell Achim)
-- [ ] D: Holzmaden Hauptspielort (Meldet Michael Hock)
-- [ ] E: Holzmaden 2 Mannschaften (Meldet Michael Hock)
-- [ ] E: Zell 1 Mannschaft (Meldet Sabine).
+- [x] A: Zell und Hattenhofen (Meldet Zell Marcel) (auf Zell)
+- [ ] B: Zell und Hattenhofen (Meldet Zell Sabine) (auf Hattenhofen)
+- [ ] C: Zell und Holzmaden (Meldung Zell Achim) (auf Zell)
+- [ ] D: Holzmaden Hauptspielort (Meldet Michael Hock) (auf Holzmaden)
+- [ ] E: Holzmaden 2 Mannschaften (Meldet Michael Hock) (auf Holzmaden)
+- [ ] E: Zell 1 Mannschaft (Meldet Sabine)
 - [ ] F1: Hattenhofen (Meldet Sabine)
 - [ ] F2: Hattenhofen (Meldet Sabine)
 - [ ] Bambini: Hattenhofen (Meldet Sabine)
