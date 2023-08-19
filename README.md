@@ -36,8 +36,9 @@ Während den Ferienzeiten findet idR. kein Training statt.
 
 |Trainer|Jahrgang|
 |:--|:--|
-|Alexander März|2015 & 2016 und jünger (F1 & F2)|
-|Matthias Geller|2015 & 2016 und jünger (F1 & F2)|
+|Alexander März|2015 & 2016 (F1 & F2)|
+|Matthias Geller|2015 & 2016 (F1 & F2)|
+|Mario Daubner|2015 & 2016 (F1 & F2)|
 |Timo Hermann|2017 und jünger (Bambini)|
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
 |Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
