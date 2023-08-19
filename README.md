@@ -43,13 +43,14 @@ Während den Ferienzeiten findet idR. kein Training statt.
 
 |Trainer|Jahrgang|
 |:--|:--|
-|Markus Walter|2014 (F1)|
-|Markus Koch|2014 (F1)|
-|Alexander März|2015 & 2016  und jünger (F2 & Bambini)|
-|Matthias Geller|2015 & 2016  und jünger (F2 & Bambini)|
-|Timo Hermann|Unterstützt 2016 und jünger (Bambini)|
+|Alexander März|2015 & 2016 und jünger (F1 & F2)|
+|Matthias Geller|2015 & 2016 und jünger (F1 & F2)|
+|Timo Hermann|2017 und jünger (Bambini)|
 |Heidrun Frey|Unterstützt das Trainerteam sporadisch|
 |Raymond Dakosi|Unterstützt das Trainerteam sporadisch|
+|Birgit Karg|Unterstützt das Trainerteam sporadisch|
+|Markus Walter|2014 (E)|
+|Markus Koch|2014 (E)|
 
 ## Für Interessierte
 
