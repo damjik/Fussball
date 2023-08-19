@@ -27,8 +27,6 @@ Noch nicht verfügbar
 |6|Sa, 29.10.2022|[2014 (F1)](/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
 |7|Sa. 12.11.2022|Kleines Trainingsspiel gegen Bezgenriet|Hattenhofen Sportplatz|3 Spielstationen + Spiele|
 
-## Turnieroptionen
-
 ## Trainingszeiten
 |Tag|Ort|Jahrgang|
 |:--|:--|:--|
