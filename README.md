@@ -1,4 +1,4 @@
-# SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang (2014,) 2015, 2016, 2017 und jünger
+# SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang 2015, 2016, 2017 und jünger
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
