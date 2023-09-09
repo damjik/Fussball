@@ -56,7 +56,7 @@ Nächste Sitzung : Noch nicht vereinbart
 ### Beschaffungen
 
 - [ ] Sabine bestellt 2 Tore für Zell : Tore werden organisiert für Zell (über Kasse SGM)
-- [ ] Mario organisiert 12 + 8 Bälle vom Sport Holl (Direkt bei Daniel)
+- [x] Mario organisiert 12 + 8 Bälle vom Sport Holl (Direkt bei Daniel)
   - Michael & Matthias geben bis Mittwoch Abend (05.07.) Bescheid, ob <= D-Jugend Bälle benötigen.
 
 ### Trikotsponsoring
@@ -103,7 +103,8 @@ Nächste Sitzung : Noch nicht vereinbart
 ## Protokoll
 
 - Matthias Geller am 15.05.2023
-- [ ] Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden (Matthias).
+- [x] Eine geeignete Platform, um Protokoll(e) abzulegen muss noch gesucht werden (Matthias).
+  - 9.9.23 : typemill flatfile CMS Version 2 sollte im Sommer (August) released werden. Release verzögert sich. Sobald released, erfolgt Umsetzung.
 
 ## Topics
 
@@ -128,12 +129,12 @@ Nächste Sitzung : Noch nicht vereinbart
 - [x] A: Zell und Hattenhofen (Meldet Zell Marcel) (auf Zell)
 - [ ] B: Zell und Hattenhofen (Meldet Zell Sabine) (auf Hattenhofen)
 - [ ] C: Zell und Holzmaden (Meldung Zell Achim) (auf Zell)
-- [ ] D: Holzmaden Hauptspielort (Meldet Michael Hock) (auf Holzmaden)
-- [ ] E: Holzmaden 2 Mannschaften (Meldet Michael Hock) (auf Holzmaden)
-- [ ] E: Zell 1 Mannschaft (Meldet Sabine)
-- [ ] F1: Hattenhofen (Meldet Sabine)
-- [ ] F2: Hattenhofen (Meldet Sabine)
-- [ ] Bambini: Hattenhofen (Meldet Sabine)
+- [x] D: Holzmaden Hauptspielort (Meldet Michael Hock) (auf Holzmaden)
+- [x] E: Holzmaden 2 Mannschaften (Meldet Michael Hock) (auf Holzmaden)
+- [x] E: Zell 1 Mannschaft (Meldet Sabine)
+- [x] F1: Hattenhofen (Meldet Sabine)
+- [x] F2: Hattenhofen (Meldet Sabine)
+- [x] Bambini: Hattenhofen (Meldet Sabine)
 
 Weitere Infos siehe [Protokoll 2023-04-24 Trainer/Spielerliste](#sais23_24)
 
@@ -168,9 +169,10 @@ Weitere Infos: [Protokoll 2023-04-24 Sportplatzbelegung](#belegung2023)
 ## Reorganisation Doings
 
 - Auf urspünglichen Wunsch/Vorschlag nach einem Training von Frank und Claudio, organisatorische Aufgaben ggf. auf mehreren Schultern zu verteilen, bitte von Matthias:
-  - [ ] dass sich hierzu jeder Interessierte bis zum nächsten Termin Gedanken macht, wie wir organisatorische Aufgaben ggf. geschickt(er) reduzieren/verteilen können.
-    - z.B. klare Ansprechpartner mit kompletter Expertise zu einzelnen Themen.
-  - [ ] gerne auch alternative Ideen was uns in diesem Thema weiterbringt (z.B. den Aufwand für den einzelnen reduziert).
+  - [ ] ~~dass sich hierzu jeder Interessierte bis zum nächsten Termin Gedanken macht, wie wir organisatorische Aufgaben ggf. geschickt(er) reduzieren/verteilen können.~~
+    - ~~z.B. klare Ansprechpartner mit kompletter Expertise zu einzelnen Themen.~~
+  - [ ] ~~gerne auch alternative Ideen was uns in diesem Thema weiterbringt (z.B. den Aufwand für den einzelnen reduziert).~~
+  - 9.9.23 : Hinfällig...
 
 ## Anwesend
 
@@ -261,7 +263,7 @@ Sabine steht im Kontakt mit Thorsten Krautz. Zirka 100 Tailnehmer.
     - Ein transportabeles Tor ist in der Garage in Hattenhofen vorhanden. 
     - Kleine Tore sind ok (2 Netze kaputt => wird beim nächsten Tausch von großen Netzen repariert).
   - [x] "Torvorhang" für Torschußübungen vohanden in Hattenhofen? Wurde gekauft und wird im Hattenhofen verfügbar sein.
-    - [ ] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
+    - [x] Sonstiges, wie "stabil aufstellbare Ringe" für Zielübungen sollte bereits möglich/vorhanden sein?
 - Sabine organisiert noch
   - [x] 3-4 Softbälle für Markus W.. wurde besorgt
 
