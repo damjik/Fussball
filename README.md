@@ -2,29 +2,35 @@
 
 ## Spieltage | Rahmenterminkalender 2023/24 | Jugend Bezirk Neckar/Fils
 
-Noch nicht verfügbar
+|#|2023|Info|
+|:--|:--|:--|
+|1|Sa, 23.09.2023| [Hier klicken](/2023) |
+|2|Sa, 30.09.2023| [Hier klicken](/2023) |
+|3|Sa, 07.10.2023| [Hier klicken](/2023) |
+|4|Sa, 14.10.2023| [Hier klicken](/2023) |
+|5|Sa, 21.10.2023| [Hier klicken](/2023) |
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
 |#|2023|Info|
 |:--|:--|:--|
-|1|Sa, 22.04.2023| [Hier klicken](/2023) |
-|2|Sa, 29.04.2023| [Hier klicken](/2023) |
-|3|Sa, 06.05.2023| [Hier klicken](/2023) |
-|4|Sa, 13.05.2023| [Hier klicken](/2023) |
-|5|Sa, 20.05.2023| [Hier klicken](/2023) |
+|1|Sa, 22.04.2023| [Hier klicken](/Archiv/2023) |
+|2|Sa, 29.04.2023| [Hier klicken](/Archiv/2023) |
+|3|Sa, 06.05.2023| [Hier klicken](/Archiv/2023) |
+|4|Sa, 13.05.2023| [Hier klicken](/Archiv/2023) |
+|5|Sa, 20.05.2023| [Hier klicken](/Archiv/2023) |
 |6|Sa, 08.07.2023| ~~Turnier auf dem Zeller Berg~~ (leider abgesagt) |
 |7|Sa, 08.07.2023| Turnier REWE Günter Cup Bernhausen (Nachmittags) |
 
 
 |#|2022|Info|Zeit & Spielort|
 |:--|:--|:--|:--|
-|1|Sa. 23.07.2022|12. Zeller Berg<br/>Junioren Feldturnier 2022|[Sportgelände Zeller Berg<br/>73119 Zell unter Aichelberg](https://goo.gl/maps/adBif8bE646YN44J6)|- [Spielplan F1](/2022/2022.07.23-ZellerBerg-F1-Spielplan.pdf)<br/>- [Spielplan F2](/2022/2022.07.23-ZellerBerg-F2-Spielplan.pdf)<br/>- [Turnierbestimmungen](/2022/2022.07.23-ZellerBerg-Turnierbestimmungen.pdf)|
+|1|Sa. 23.07.2022|12. Zeller Berg<br/>Junioren Feldturnier 2022|[Sportgelände Zeller Berg<br/>73119 Zell unter Aichelberg](https://goo.gl/maps/adBif8bE646YN44J6)|- [Spielplan F1](/Archiv/2022/2022.07.23-ZellerBerg-F1-Spielplan.pdf)<br/>- [Spielplan F2](/Archiv/2022/2022.07.23-ZellerBerg-F2-Spielplan.pdf)<br/>- [Turnierbestimmungen](/Archiv/2022/2022.07.23-ZellerBerg-Turnierbestimmungen.pdf)|
 |2|Sa, 24.09.2022|keine Teilnahme||
-|3|Sa, 08.10.2022|[2014 (F1)](/2022/F1-SpT2-Gr7.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT2-Gr6.pdf), [2015 (F2 2)](/2022/F2-SpT2-Gr7.pdf)|09:00, TSV Wäschenbeuren, Maitiser Str.<br/>09:00, TSV Bad Boll, Sportgelände Erlengarten|
-|4|Sa, 15.10.2022|2014 (F1)<br/>[2015 (F2 I)](/2022/F2-SpT3-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT3-Gr4.pdf)|Kein Spieltermin verfügbar<br/>09:00, TV Deggingen, Am Mühlbach|
-|5|Sa, 22.10.2022|[2014 (F1)](/2022/F1-SpT4-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT4-Gr1.pdf), [2015 (F2 2)](/2022/F2-SpT4-Gr2.pdf)|09:00, Eislingen, Sportplatz KSG Eislingen<br/>09:00, Ebersbach/Fils, Kunstrasen Strut|
-|6|Sa, 29.10.2022|[2014 (F1)](/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
+|3|Sa, 08.10.2022|[2014 (F1)](/Archiv/2022/F1-SpT2-Gr7.pdf)<br/>[2015 (F2 I)](/Archiv/2022/F2-SpT2-Gr6.pdf), [2015 (F2 2)](/Archiv/2022/F2-SpT2-Gr7.pdf)|09:00, TSV Wäschenbeuren, Maitiser Str.<br/>09:00, TSV Bad Boll, Sportgelände Erlengarten|
+|4|Sa, 15.10.2022|2014 (F1)<br/>[2015 (F2 I)](/Archiv/2022/F2-SpT3-Gr3.pdf), [2015 (F2 2)](/Archiv/2022/F2-SpT3-Gr4.pdf)|Kein Spieltermin verfügbar<br/>09:00, TV Deggingen, Am Mühlbach|
+|5|Sa, 22.10.2022|[2014 (F1)](/Archiv/2022/F1-SpT4-Gr3.pdf)<br/>[2015 (F2 I)](/Archiv/2022/F2-SpT4-Gr1.pdf), [2015 (F2 2)](/Archiv/2022/F2-SpT4-Gr2.pdf)|09:00, Eislingen, Sportplatz KSG Eislingen<br/>09:00, Ebersbach/Fils, Kunstrasen Strut|
+|6|Sa, 29.10.2022|[2014 (F1)](/Archiv/2022/F1-SpT5-Gr3.pdf)<br/>[2015 (F2 I)](/Archiv/2022/F2-SpT5-Gr3.pdf), [2015 (F2 2)](/Archiv/2022/F2-SpT5-Gr4.pdf)|09:00, SC Uhingen, Hauptspielplatz<br/>09:00, TV Deggingen, Am Mühlbach|
 |7|Sa. 12.11.2022|Kleines Trainingsspiel gegen Bezgenriet|Hattenhofen Sportplatz|3 Spielstationen + Spiele|
 
 ## Trainingszeiten
