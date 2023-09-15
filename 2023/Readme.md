@@ -45,4 +45,4 @@
 | Datum      | Team         | Jahrgang  | Ort/Verein     | Uhrzeit | Sonstiges                                           | #Spieler |
 | :--------- | :----------- | :-------- | :------------- | :------ | :-------------------------------------------------- | :------- |
 | 16.12.2023 | Bambini I&II | 2017-2019 | TSV Wendlingen | 09:00   | Sporthalle im Grund in Wendlingen, Neuffenstraße 76 | >= 6     |
-| 17.12.2023 | F2 I&II      | 2016      | TSV Wendlingen | 12:00   | Sporthalle im Grund in Wendlingen, Neuffenstraße 76 | >= 5     |
+| 17.12.2023 | F2 I         | 2016      | TSV Wendlingen | 12:00   | Sporthalle im Grund in Wendlingen, Neuffenstraße 76 | >= 5     |
