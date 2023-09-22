@@ -18,19 +18,19 @@
 
 ## Spieltag 3 - Sa, 07.10.2023
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | >= 6     |
-| F2 I         | 2016      |            | 09:00   |           | >= 5     |
-| F1 I&II      | 2016      |            | 09:00   |           | >= 10    |
+| Team         | Jahrgang  | Ort/Verein     | Uhrzeit | Sonstiges                                       | #Spieler |
+| :----------- | :-------- | :------------- | :------ | :---------------------------------------------- | :------- |
+| Bambini I&II | 2017-2019 | GSV Dürnau     | 09:00   | Hauptplatz Frühlingstr.                         | >= 6     |
+| F2 I         | 2016      | TB Gingen/Fils | 09:00   | Sportplatz                                      | >= 5     |
+| F1 I&II      | 2015      | TSV Bad Boll   | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll | >= 10    |
 
 ## Spieltag 4 - Sa, 14.10.2023
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | >= 6     |
-| F2 I         | 2016      |            | 09:00   |           | >= 5     |
-| F1 I&II      | 2015      |            | 09:00   |           | >= 10    |
+| Team         | Jahrgang  | Ort/Verein             | Uhrzeit | Sonstiges                                       | #Spieler |
+| :----------- | :-------- | :--------------------- | :------ | :---------------------------------------------- | :------- |
+| Bambini I&II | 2017-2019 | Spvgg Reichenbach/Täle | 09:00   | Sportplatz                                      | >= 6     |
+| F2 I         | 2016      | KSG Eislingen          | 09:00   | Albstr. 69, Eislingen                           | >= 5     |
+| F1 I&II      | 2015      | TSV Bad Boll           | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll | >= 10    |
 
 ## Spieltag 5 - Sa, 21.10.2023
 
