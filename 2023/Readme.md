@@ -4,8 +4,8 @@
 
 | Team         | Jahrgang  | Ort/Verein     | Uhrzeit | Sonstiges                                              | #Spieler |
 | :----------- | :-------- | :------------- | :------ | :----------------------------------------------------- | :------- |
-| Bambini I&II | 2017-2019 | TSV Adelberg   | 09:00   | Rasenplatz Am Jauchert                                 | >= 6     |
-| F2 I         | 2016      | TSV Gruibingen | 09:00   | Sportplatz Gruibingen, Winkelbachtal, 73344 Gruibingen | >= 5     |
+| ~~Bambini I&II~~ | 2017-2019 | TSV Adelberg   | 09:00   | ~~Rasenplatz Am Jauchert~~ (abgemeldet)                                 | >= 6     |
+| ~~F2 I~~         | 2016      | TSV Gruibingen | 09:00   | ~~Sportplatz Gruibingen, Winkelbachtal, 73344 Gruibingen~~ (abgemeldet) | >= 5     |
 | F1 I&II      | 2015      | TSV Bad Boll   | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll        | >= 10    |
 
 ## Spieltag 2 - Sa, 30.09.2023
