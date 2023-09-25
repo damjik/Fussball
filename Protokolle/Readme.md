@@ -1,15 +1,91 @@
-**Hinweis vorab:**  
+**Hinweis vorab:**
+
 - Fehlende oder falsche Informationen/Namen/... bitte direkt dem Protokollanten zur Verbesserung melden.
 - [ ] markiert ein TODO
 - [x] markiert ein erledigtes TODO
 
-## <a id="sitzungen"></a> Sitzungen
+## <a id="sitzungen"></a> Jugendtrainersitzungen
 
-Nächste Sitzung : Noch nicht vereinbart
+Nächste Sitzung : 09.10.2023
 
+- [Trainersitzung 2023-09-11](#ts4)
 - [Trainersitzung 2023-07-03](#ts3)
 - [Trainersitzung 2023-05-15](#ts2)
 - [Trainersitzung 2023-04-24](#ts1)
+
+# <a id="ts4"></a> Trainersitzung 2023-09-11
+
+## Protokoll
+
+- Dierk Kubert am 25.09.2023
+
+## Topics
+
+- SGM mit allen vier Vereinen weiterhin nicht möglich.
+
+- Bedarf Jugend Bekleidung E Jugend:
+  - Werbepartner Klein Schlierbach.
+  - Meldung an Achim Wahler
+
+- Sponsor für Trainingsbekleidung alle andere:
+  - Verträge mit Seitz und Vybiralik sind beendet.
+
+- C Jugend
+    Dienstags bis 19.45
+    Donnerstag bis 19.45
+
+- C2 - Achim spricht Luki an.
+
+- A Jugend: Donnerstag wäre ideal, da samstags Spiel.
+
+- AH berücksichtigen, mit Aktiven besprechen.
+
+- Brief an die Eltern. Per PDF oder whatsapp
+
+- Salach und Sparwiesen haben Mähroboter wieder abgeschafft. Bei Regen mäht er auch und dann bildet sich Schimmel...
+
+- Heiko Ossner stellt sein know how vor.
+  - Aufwärmen der Torhüter
+  - Einzeltraining
+  - Mannschaftstraining
+  - Coach to Coach - Ausbildung für Trainer
+    - 1 Tag. Samstag oder Sonntag.
+    - 10 bis 14.00 am 30. September.
+    - Die Aktiven mit einladen.
+  - Trainingsgruppen:
+    - A + Aktive
+    - B + C
+    - D + E
+    - 1 x pro Woche. Hu würde das machen. Seine Präferenz Freitag. 17.45 bis 18.45
+  - D Jugend wäre da dabei.
+  -[ ] Für die B und C klärt Heiko den Montag. Ab etwa 18.00 Uhr.
+
+- Marcel trägt mal eine Übersicht unterschiedlicher Kamerasysteme zusammen. Könnten wir das gemeinsam mit allen Vereinen beschaffen?
+
+- Halle:
+  - C2 mittwochs und Donnerstags in Hattenhofen
+  - A Freitag abends Zell 19.00
+  - Die Hallenbelegungspläne Hattenhofen, Holzmaden und Zell werden in die Gruppe gestellt. Die Termine werden in der nächsten Runde final vereinbart.
+
+- Weihnachtsfeier in Zell am 2.12.
+- In Holzmaden am 16.12.
+- In Hattenhofen am 16.12. Weihnachtsmarkt am 17.12. In der Halle für Kinder.
+
+- Torwarttag mit AR Sport?
+  - Ein guter Handschuh kostet max 80 Euro.
+  - Termin Montags. Ziel 20.11.
+
+- Für Hattenhofen würden 2 neue kleine Tore fehlen.
+  - [ ] Sabine schaut sich das am kommenden Freitag an.
+
+- 4er Bälle 15 Stück für Zell beschaffen.
+  - [ ] Dierk klärt das mit Sport Holl.
+
+- Hauptthema nächste Sitzung: Jugendkonzept und Umgang miteinander.
+
+- Bei der F fehlen mindestens 2 Trainer.
+
+- Nächste Sitzung 9.10.23 in Zell. 19.30 Uhr.
 
 # <a id="ts3"></a> Trainersitzung 2023-07-03
 
