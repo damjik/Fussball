@@ -76,7 +76,7 @@ Nächste Sitzung : 09.10.2023
   - Termin Montags. Ziel 20.11.
 
 - Für Hattenhofen würden 2 neue kleine Tore fehlen.
-  - [ ] Sabine schaut sich das am kommenden Freitag an.
+  - [x] Sabine schaut sich das am kommenden Freitag an.
 
 - 4er Bälle 15 Stück für Zell beschaffen.
   - [ ] Dierk klärt das mit Sport Holl.
