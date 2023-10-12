@@ -2,11 +2,11 @@
 
 ## Spieltag 1 - Sa, 23.09.2023
 
-| Team         | Jahrgang  | Ort/Verein     | Uhrzeit | Sonstiges                                              | #Spieler |
-| :----------- | :-------- | :------------- | :------ | :----------------------------------------------------- | :------- |
+| Team             | Jahrgang  | Ort/Verein     | Uhrzeit | Sonstiges                                                               | #Spieler |
+| :--------------- | :-------- | :------------- | :------ | :---------------------------------------------------------------------- | :------- |
 | ~~Bambini I&II~~ | 2017-2019 | TSV Adelberg   | 09:00   | ~~Rasenplatz Am Jauchert~~ (abgemeldet)                                 | >= 6     |
 | ~~F2 I~~         | 2016      | TSV Gruibingen | 09:00   | ~~Sportplatz Gruibingen, Winkelbachtal, 73344 Gruibingen~~ (abgemeldet) | >= 5     |
-| F1 I&II      | 2015      | TSV Bad Boll   | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll        | >= 10    |
+| F1 I&II          | 2015      | TSV Bad Boll   | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll                         | >= 10    |
 
 ## Spieltag 2 - Sa, 30.09.2023
 
@@ -34,11 +34,11 @@
 
 ## Spieltag 5 - Sa, 21.10.2023
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | >= 6     |
-| F2 I         | 2016      |            | 09:00   |           | >= 5     |
-| F1 I&II      | 2015      |            | 09:00   |           | >= 10    |
+| Team         | Jahrgang  | Ort/Verein      | Uhrzeit | Sonstiges                                                   | #Spieler |
+| :----------- | :-------- | :-------------- | :------ | :---------------------------------------------------------- | :------- |
+| Bambini I&II | 2017-2019 | SV Göppingen    | 09:00   | Stadion SV Göppingen, Hohenstaufenstr. 116, 73033 Göppingen | >= 6     |
+| F2 I         | 2016      | 1. FC Eislingen | 09:00   | Eichenbachstadion, Haldenstr. 45, 73054 Eislingen           | >= 5     |
+| F1 I&II      | 2015      | TSV Bad Boll    | 09:00   | Nebenplatz Boll, Erlengarten 37, 73087 Bad Boll             | >= 10    |
 
 ## Turniere
 
