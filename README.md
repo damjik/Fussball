@@ -11,6 +11,7 @@
 | 5    | Sa, 21.10.2023 | [Hier klicken](/2023)                                    |
 | 6    | Sa, 16.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Bambinis) |
 | 7    | So, 17.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Knirpse)  |
+| 8    | Sa, 13.01.2024 | Hallenturnier FTSV Kuchen F1 (vormittags) & F2 (nachmittags) |
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
@@ -40,7 +41,8 @@
 | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------- |
 | **Freitags, 16:30 - 18:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | Alle Jahrgänge |
 | **Mittwochs, 17:30 - 19:00** | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | 2015 & 2016    |
-| **Freitags, 16:30 - 18:00**  | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> |                |
+| **Freitags, 16:30 - 18:00**  | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | <= 2017 (Bambinis) |
+| **Mittwochs, 16:30 - 17:45** | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016 (Knirpse) |
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
