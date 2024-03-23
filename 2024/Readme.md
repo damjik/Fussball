@@ -1,5 +1,7 @@
 # Übersicht Spieltage
 
+! DIE SPIELTAGE SIND NOCH NICHT FIXIERT; ÄNDERUNGEN VORGEHALTEN !
+
 ## Spieltag 1 - Sa, 13.04.2024
 
 | Team         | Jahrgang  | Ort/Verein           | Uhrzeit | Sonstiges                                                       | #Spieler |
