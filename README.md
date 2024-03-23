@@ -4,10 +4,10 @@
 
 | Tag                          | Ort                                                                                                                                                                       | Jahrgang              |
 | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------- |
-| **Freitags, 16:30 - 18:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | Alle Jahrgänge        |
-| **Mittwochs, 17:30 - 19:00** | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | 2015 & 2016           |
+| **Freitags, 16:30 - 18:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | <= 2017 (Bambinis)    |
+| **Mittwochs & Freitags, 17:30 - 19:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>           | 2015 & 2016           |
 | **Freitags, 16:30 - 18:00**  | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | <= 2017 (Bambinis)    |
-| **Mittwochs, 16:30 - 17:45** | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016 (Knirpse) |
+| **Mittwochs, 16:30 - 17:45** | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016           |
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
