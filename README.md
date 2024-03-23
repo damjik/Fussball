@@ -1,5 +1,26 @@
 # SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang 2015, 2016, 2017 und jünger
 
+## Spieltage | Rahmenterminkalender 2023/24 | Jugend Bezirk Neckar/Fils
+
+| #    | 2024           | Info                                                         |
+| :--- | :------------- | :----------------------------------------------------------- |
+| 1    | Sa, 13.04.2024 | [Hier klicken](/2024)                                        |
+| 2    | Sa, 20.04.2024 | [Hier klicken](/2024)                                        |
+| 3    | Sa, 27.04.2024 | [Hier klicken](/2024)                                        |
+| 4    | Sa, 04.05.2024 | [Hier klicken](/2024)                                        |
+| 5    | Sa, 11.05.2024 | [Hier klicken](/2024)                                        |
+
+| #    | 2023           | Info                                                         |
+| :--- | :------------- | :----------------------------------------------------------- |
+| 1    | Sa, 23.09.2023 | [Hier klicken](/2023)                                        |
+| 2    | Sa, 30.09.2023 | [Hier klicken](/2023)                                        |
+| 3    | Sa, 07.10.2023 | [Hier klicken](/2023)                                        |
+| 4    | Sa, 14.10.2023 | [Hier klicken](/2023)                                        |
+| 5    | Sa, 21.10.2023 | [Hier klicken](/2023)                                        |
+| 6    | Sa, 16.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Bambinis)     |
+| 7    | So, 17.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Knirpse)      |
+| 8    | Sa, 13.01.2024 | Hallenturnier FTSV Kuchen F1 (vormittags) & F2 (nachmittags) |
+
 ## Trainingszeiten
 
 | Tag                          | Ort                                                                                                                                                                       | Jahrgang              |
@@ -56,19 +77,6 @@ Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de 
 | [SGM Zell/Hattenhofen](https://sgm-zell-hattenhofen.de/) | <img src="cropped-SGM-Zell_Hattenhofen-2.jpg" height="30" /> |                                                  |
 |                                                          | <img src="logo_zua.png" height="30" />                       | [TSG ZELL u.A.](https://www.tsg-zell.de/)        |
 |                                                          | <img src="logo-hat.gif" height="30" />                       | [TSGV Hattenhofen](https://tsgv-hattenhofen.de/) |
-
-## Spieltage | Rahmenterminkalender 2023/24 | Jugend Bezirk Neckar/Fils
-
-| #    | 2023           | Info                                                         |
-| :--- | :------------- | :----------------------------------------------------------- |
-| 1    | Sa, 23.09.2023 | [Hier klicken](/2023)                                        |
-| 2    | Sa, 30.09.2023 | [Hier klicken](/2023)                                        |
-| 3    | Sa, 07.10.2023 | [Hier klicken](/2023)                                        |
-| 4    | Sa, 14.10.2023 | [Hier klicken](/2023)                                        |
-| 5    | Sa, 21.10.2023 | [Hier klicken](/2023)                                        |
-| 6    | Sa, 16.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Bambinis)     |
-| 7    | So, 17.12.2023 | 1. ERGO-Hallencup der Junioren TSV Wendlingen (Knirpse)      |
-| 8    | Sa, 13.01.2024 | Hallenturnier FTSV Kuchen F1 (vormittags) & F2 (nachmittags) |
 
 ## Spieltage | Rahmenterminkalender 2022/23 | Jugend Bezirk Neckar/Fils
 
