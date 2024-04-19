@@ -1,7 +1,5 @@
 # Übersicht Spieltage
 
-! DIE SPIELTAGE SIND NOCH NICHT FIXIERT; ÄNDERUNGEN VORGEHALTEN !
-
 ## Spieltag 1 - Sa, 13.04.2024
 
 | Team         | Jahrgang  | Ort/Verein                                     | Uhrzeit | Sonstiges                                                                                                           | #Spieler |
@@ -12,11 +10,11 @@
 
 ## Spieltag 2 - Sa, 20.04.2024
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | min. 6   |
-| F2 I         | 2016      |            | 09:00   |           | min. 5   |
-| F1 I&II      | 2015      |            | 09:00   |           | min. 10  |
+| Team         | Jahrgang  | Ort/Verein                                 | Uhrzeit | Sonstiges                                                                     | #Spieler |
+| :----------- | :-------- | :----------------------------------------- | :------ | :---------------------------------------------------------------------------- | :------- |
+| Bambini I&II | 2017-2019 |                                            | 09:00   |                                                                               | min. 6   |
+| F2 I         | 2016      | -- fällt aus --                            | 09:00   |                                                                               | min. 5   |
+| F1 I&II      | 2015      | KSG Eislingen, Albstr. 69, 73054 Eislingen | 09:00   | [Gruppe 4](Spieltag%202/Gruppe_4.pdf) & [Gruppe 5](Spieltag%202/Gruppe_5.pdf) | min. 10  |
 
 ## Spieltag 3 - Sa, 27.04.2024
 
