@@ -56,7 +56,7 @@ Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de 
 
 | Datum                                     | Dienst                                      | Helfer                  |
 | :---------------------------------------- | :------------------------------------------ | :---------------------- |
-| So, 21.04.2024 12:45-14:45 u. 14:45-17:00 | Grilldienst (TV Eybach u. TSV Bad Boll II)  |                         |
+| So, 21.04.2024 12:45-14:45 u. 14:45-17:00 | Grilldienst (TV Eybach u. TSV Bad Boll II)  | Sandra D., Isy V., Fam. Fox, Fam. Geller |
 | So, 12.11.2023 12:15-14:15 u. 14:15-16:30 | Grilldienst (TSC Adelberg u. SC Uhingen II) | Fam. Acar & Fam. Geller |
 | So, 11.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Acar (Hasan)       |
 | So, 12.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Struck (Elvira)    |
