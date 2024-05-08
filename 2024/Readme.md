@@ -26,11 +26,7 @@
 
 ## Spieltag 4 - Sa, 04.05.2024
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | min. 6   |
-| F2 I         | 2016      |            | 09:00   |           | min. 5   |
-| F1 I&II      | 2015      |            | 09:00   |           | min. 10  |
+Turnier in Kirchheim
 
 ## Spieltag 5 - Sa, 11.05.2024
 
@@ -38,4 +34,4 @@
 | :----------- | :-------- | :--------- | :------ | :-------- | :------- |
 | Bambini I&II | 2017-2019 |            | 09:00   |           | min. 6   |
 | F2 I         | 2016      |            | 09:00   |           | min. 5   |
-| F1 I&II      | 2015      |            | 09:00   |           | min. 10  |
+| F1 I&II      | 2015      | SC Geislingen | 09:00   |           | min. 10  |
