@@ -30,8 +30,8 @@ Turnier in Kirchheim
 
 ## Spieltag 5 - Sa, 11.05.2024
 
-| Team         | Jahrgang  | Ort/Verein | Uhrzeit | Sonstiges | #Spieler |
-| :----------- | :-------- | :--------- | :------ | :-------- | :------- |
-| Bambini I&II | 2017-2019 |            | 09:00   |           | min. 6   |
-| F2 I         | 2016      |            | 09:00   |           | min. 5   |
-| F1 I&II      | 2015      | SC Geislingen | 09:00   |           | min. 10  |
+| Team         | Jahrgang  | Ort/Verein                                                          | Uhrzeit | Sonstiges | #Spieler |
+| :----------- | :-------- | :------------------------------------------------------------------ | :------ | :-------- | :------- |
+| Bambini I&II | 2017-2019 | TSV Ottenbach, Sportplatz Im Buchs, 73113 Ottenbach                 | 09:00   |           | min. 6   |
+| F2 I         | 2016      | TSV Wäschenbeuren, Maitiser Str., 73116 Wäschenbeuren               | 09:00   |           | min. 5   |
+| F1 I&II      | 2015      | SC Geislingen, Stadion Eybacher Tal, 73312 Geislingen an der Steige | 09:00   |           | min. 10  |
