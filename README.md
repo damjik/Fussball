@@ -1,16 +1,16 @@
-# SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang 2015, 2016, 2017 und jünger
+# SGM Zell/Hattenhofen<br/>Infos Fussballjugend Jahrgang 2016, 2017, 2018 und jünger
 
 ## Spieltage | Rahmenterminkalender 2023/24 | Jugend Bezirk Neckar/Fils
 
-| #    | 2024           | Info                                                         |
-| :--- | :------------- | :----------------------------------------------------------- |
-| 1    | Sa, 13.04.2024 | [Hier klicken](/2024)                                        |
-| 2    | Sa, 20.04.2024 | [Hier klicken](/2024)                                        |
-| 3    | Sa, 27.04.2024 | [Hier klicken](/2024)                                        |
-| 4    | Sa, 04.05.2024 | [Hier klicken](/2024)                                        |
-| 5    | Sa, 11.05.2024 | [Hier klicken](/2024)                                        |
-| 6    | Sa, 20.07.2024 | F2 : 28. Saureiercup Holzmaden                               |
-| 7    | So, 21.07.2024 | Bambini : 28. Saureiercup Holzmaden                          |
+| #    | 2024           | Info                                |
+| :--- | :------------- | :---------------------------------- |
+| 1    | Sa, 13.04.2024 | [Hier klicken](/2024)               |
+| 2    | Sa, 20.04.2024 | [Hier klicken](/2024)               |
+| 3    | Sa, 27.04.2024 | [Hier klicken](/2024)               |
+| 4    | Sa, 04.05.2024 | [Hier klicken](/2024)               |
+| 5    | Sa, 11.05.2024 | [Hier klicken](/2024)               |
+| 6    | Sa, 20.07.2024 | F2 : 28. Saureiercup Holzmaden      |
+| 7    | So, 21.07.2024 | Bambini : 28. Saureiercup Holzmaden |
 
 | #    | 2023           | Info                                                         |
 | :--- | :------------- | :----------------------------------------------------------- |
@@ -25,26 +25,28 @@
 
 ## Trainingszeiten
 
-| Tag                          | Ort                                                                                                                                                                       | Jahrgang              |
-| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------- |
-| **Freitags, 16:30 - 18:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | <= 2017 (Bambinis)    |
-| **Mittwochs & Freitags, 17:30 - 19:00**  | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>           | 2015 & 2016           |
-| **Freitags, 16:30 - 18:00**  | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | <= 2017 (Bambinis)    |
-| **Mittwochs, 16:30 - 17:45** | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016           |
+| Tag                                     | Ort                                                                                                                                                                       | Jahrgang            |
+| :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------ |
+| **Freitags, 16:30 - 18:00**             | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | <= 2018 (Bambinis)  |
+| **Mittwochs & Freitags, 17:30 - 19:00** | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | 2017 & 2016 (F1&F2) |
+| **Freitags, 16:30 - 18:00**             | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | <= 2018 (Bambinis)  |
+| **Mittwochs, 16:30 - 17:45**            | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016         |
 
 Während den Ferienzeiten findet idR. kein Training statt.
 
-| Trainer         | Jahrgang                               |
-| :-------------- | :------------------------------------- |
-| Alexander März  | 2015 (F1)                              |
-| Matthias Geller | 2015 (F1)                              |
-| Carsten Gey     | 2016 (F2)                              |
-| Timo Hermann    | 2017 und jünger (Bambini)              |
-| Heidrun Frey    | Unterstützt das Trainerteam sporadisch |
-| Raymond Dakosi  | Unterstützt das Trainerteam sporadisch |
-| Birgit Karg     | Unterstützt das Trainerteam sporadisch |
-| Markus Walter   | 2014 (E)                               |
-| Markus Koch     | 2014 (E)                               |
+| Trainer           | Jahrgang                               |
+| :---------------- | :------------------------------------- |
+| Carsten Gey       | 2016 (F1)                              |
+| Timo Hermann      | 2017 (F2)                              |
+| Alexander März    | 2016 & 2017 (F1 & F2)                  |
+| Hasan Acar        | 2018 und jünger (Bambini)              |
+| Matthias Geller   | 2018 und jünger (Bambini)              |
+| Anna-Lena Stohrer | 2018 und jünger (Bambini)              |
+| Markus Walter     | 2014/15 (E)                            |
+| Markus Koch       | 2014/15 (E)                            |
+| Raymond Dakosi    | Unterstützt das Trainerteam (E)        |
+| Birgit Karg       | Unterstützt das Trainerteam            |
+| Heidrun Frey      | Unterstützt das Trainerteam sporadisch |
 
 ## Für Interessierte
 
@@ -56,15 +58,15 @@ Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de 
 
 ## Helferdienste
 
-| Datum                                     | Dienst                                      | Helfer                  |
-| :---------------------------------------- | :------------------------------------------ | :---------------------- |
+| Datum                                     | Dienst                                      | Helfer                                   |
+| :---------------------------------------- | :------------------------------------------ | :--------------------------------------- |
 | So, 21.04.2024 12:45-14:45 u. 14:45-17:00 | Grilldienst (TV Eybach u. TSV Bad Boll II)  | Sandra D., Isy V., Fam. Fox, Fam. Geller |
-| So, 12.11.2023 12:15-14:15 u. 14:15-16:30 | Grilldienst (TSC Adelberg u. SC Uhingen II) | Fam. Acar & Fam. Geller |
-| So, 11.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Acar (Hasan)       |
-| So, 12.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Struck (Elvira)    |
-| So, 30.04.2023 14:45-17:15                | Grilldienst                                 | Fam. Walther (Andy)     |
-| So, 28.08.2022 14:45-17:15                | Grilldienst                                 | Fam. Geller (Matti)     |
-| So, 30.10.2022 14:15-16:45                | Grilldienst                                 | Fam. Böhm (Flo)         |
+| So, 12.11.2023 12:15-14:15 u. 14:15-16:30 | Grilldienst (TSC Adelberg u. SC Uhingen II) | Fam. Acar & Fam. Geller                  |
+| So, 11.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Acar (Hasan)                        |
+| So, 12.03.2023 14:45-17:15                | Grilldienst                                 | Fam. Struck (Elvira)                     |
+| So, 30.04.2023 14:45-17:15                | Grilldienst                                 | Fam. Walther (Andy)                      |
+| So, 28.08.2022 14:45-17:15                | Grilldienst                                 | Fam. Geller (Matti)                      |
+| So, 30.10.2022 14:15-16:45                | Grilldienst                                 | Fam. Böhm (Flo)                          |
 
 ## Vereine/Links
 
