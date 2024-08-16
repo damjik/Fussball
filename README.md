@@ -1,6 +1,19 @@
-# SGM Zell/Hattenhofen<br/>Infos Fussballjugend F1, F2 und Bambinis (Jahrgänge 2016 und jünger)
+# SGM Zell/Hattenhofen Fussballjugend<br/>F1, F2 und Bambinis (Jahrgänge bis 2016)
 
-## Trainingszeiten & Trainer
+## Kalender
+
+| Datum          | Typ         | Uhrzeit     | Info                           |
+| :------------- | :---------- | :---------- | :----------------------------- |
+| So, 25.08.2024 | Grilldienst | 12:30-14:30 | Zell u.A. vs. TSV Ottenbach II |
+| Sa, 21.09.2024 | Spieltag    | 9:00-11:30  | Spielorte noch nicht verfügbar |
+| Sa, 28.09.2024 | Spieltag    | 9:00-11:30  | Spielorte noch nicht verfügbar |
+| Sa, 05.10.2024 | Spieltag    | 9:00-11:30  | Spielorte noch nicht verfügbar |
+| Sa, 12.10.2024 | Spieltag    | 9:00-11:30  | Spielorte noch nicht verfügbar |
+| Sa, 19.10.2024 | Spieltag    | 9:00-11:30  | Spielorte noch nicht verfügbar |
+| So, 27.10.2024 | Grilldienst | 12:30-14:30 | Zell u.A. vs. Bad Ditzenbach   |
+| So, 27.10.2024 | Grilldienst | 14:30-16:30 | Zell u.A. vs. TSGV Alberhausen |
+
+## Trainingszeiten
 
 | Tag                                     | Ort                                                                                                                                                                       | Jahrgang            |
 | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------ |
@@ -10,6 +23,8 @@
 | **Mittwochs, 16:30 - 17:45**            | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016         |
 
 Während den Ferienzeiten findet idR. kein Training statt.
+
+## Trainer
 
 | Jugend  | Jahrgang/Info                          | Trainer           |
 | :------ | :------------------------------------- | :---------------- |
@@ -33,18 +48,6 @@ Nicht ganz so ***mutige*** Kinder dürfen sich natürlich auch gerne erst einmal
 
 Fragen werden sehr gerne von uns nach dem Ende einer Trainingseinheiten beantwortet.
 Sollten bereits im Vorfeld Fragen bestehen, bitte an matthias@geller-familie.de (0157 51575847) wenden.
-
-## Kalender
-
-| Datum                                     | Typ         | Info                           |
-| :---------------------------------------- | :---------- | :----------------------------- |
-| So, 25.08.2024 12:30-14:30                | Grilldienst |                                |
-| Sa, 21.09.2024                            | Spieltag    | Spielorte noch nicht verfügbar |
-| Sa, 28.09.2024                            | Spieltag    | Spielorte noch nicht verfügbar |
-| Sa, 05.10.2024                            | Spieltag    | Spielorte noch nicht verfügbar |
-| Sa, 12.10.2024                            | Spieltag    | Spielorte noch nicht verfügbar |
-| Sa, 19.10.2024                            | Spieltag    | Spielorte noch nicht verfügbar |
-| So, 27.10.2024 12:30-14:30 u. 14:30-16:30 | Grilldienst |                                |
 
 ## Vereine/Links
 
