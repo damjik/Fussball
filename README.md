@@ -15,14 +15,27 @@
 
 ## Trainingszeiten
 
-| Tag                                     | Ort                                                                                                                                                                       | Jahrgang            |
-| :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------ |
-| **Freitags, 17:00 - 18:30**             | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | <= 2018 (Bambinis)  |
-| **Mittwochs & Freitags, 17:30 - 19:00** | Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>                       | 2017 & 2016 (F1&F2) |
-| **Freitags, 16:30 - 18:00**             | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | <= 2018 (Bambinis)  |
-| **Mittwochs, 16:30 - 17:45**            | Sillerhalle Schlechtwetter/Wintertraining <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a> | 2015 & 2016         |
+### Sommer
 
-Während den Ferienzeiten findet idR. kein Training statt.
+Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>
+
+| Jugend  | Jahrgang        | Tag                | Uhrzeit     |
+| :------ | :-------------- | :----------------- | :---------- |
+| Bambini | 2018 und jünger | Freitag            | 17:00-18:30 |
+| F2      | 2017            | Mittwoch & Freitag | 17:30-19:00 |
+| F1      | 2016            | Mittwoch & Freitag | 17:30-19:00 |
+
+### Winter
+
+Sillerhalle <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a>
+
+| Jugend  | Jahrgang        | Tag      | Uhrzeit     |
+| :------ | :-------------- | :------- | :---------- |
+| Bambini | 2018 und jünger | Freitag  | 16:30-18:00 |
+| F2      | 2017            | Mittwoch | 16:30-17:45 |
+| F1      | 2016            | Mittwoch | 16:30-17:45 |
+
+**Während den Ferienzeiten findet idR. kein Training statt.**
 
 ## Trainer
 
