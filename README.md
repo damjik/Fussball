@@ -9,9 +9,11 @@
 | Sa, 28.09.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
 | Sa, 05.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
 | Sa, 12.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
+| Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                            |
 | Sa, 19.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                            |
 | So, 27.10.2024 | Grilldienst | 14:30-16:30      | Zell u.A. vs. TSGV Alberhausen                                                                                          |
+| Fr, 08.11.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                            |
 
 ## Trainingszeiten
 
