@@ -5,7 +5,7 @@
 | Datum          | Typ         | Uhrzeit          | Info                                                                                                                    |
 | :------------- | :---------- | :--------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | So, 25.08.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. TSV Ottenbach II (Viktor & Matthias)                                                                      |
-| Sa, 21.09.2024 | Spieltag    | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis für den Kreis GP<br/>Spielort für F Jugend noch nicht verfügbar |
+| Sa, 21.09.2024 | Spieltag    | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis für den Kreis GP<br/>Spielort für die F Jugend ist Deggingen    |
 | Sa, 28.09.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
 | Sa, 05.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
 | Sa, 12.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                          |
