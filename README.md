@@ -5,12 +5,12 @@
 | Datum          | Typ         | Uhrzeit          | Info                                                                                                                                                            |
 | :------------- | :---------- | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | So, 25.08.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. TSV Ottenbach II (Viktor & Matthias)                                                                                                              |
-| Sa, 21.09.2024 | Spieltag    | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis (G) für den Kreis GP<br/>Spielort für die F Jugend ist Deggingen<br/>[Spielpläne](/Spielpläne/) F und G |
-| Sa, 28.09.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                                                                  |
-| Sa, 05.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                                                                  |
-| Sa, 12.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                                                                  |
+| Sa, 21.09.2024 | Spieltag 1  | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis (G) für den Kreis GP<br/>Spielort für die F Jugend ist Deggingen<br/>[Spielpläne](/Spielpläne/) F und G |
+| Sa, 28.09.2024 | Spieltag 2  | 9:00-11:30       | Bambinis: Albershausen<br/>F-Jugend:Salach                                                                                                                      |
+| Sa, 05.10.2024 | Spieltag 3  | 9:00-11:30       | Bambinis: KSG Eislingen<br/>F-Jugend: ?                                                                                                                                  |
+| Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg<br/>F-Jugend: Deggingen                                                                                                                                 |
 | Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
-| Sa, 19.10.2024 | Spieltag    | 9:00-11:30       | Spielorte noch nicht verfügbar                                                                                                                                  |
+| Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren<br/>F-Jugend: Wäschenbeuren                                                                                                                                 |
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                                                                    |
 | So, 27.10.2024 | Grilldienst | 14:30-16:30      | Zell u.A. vs. TSGV Alberhausen                                                                                                                                  |
 | Fr, 08.11.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
@@ -23,7 +23,7 @@ Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" re
 
 | Jugend  | Jahrgang        | Tag                  | Uhrzeit                     | Trainer                                              |
 | :------ | :-------------- | :------------------- | :-------------------------- | :--------------------------------------------------- |
-| Bambini | 2018 und jünger | Freitag              | 17:00-18:30                 | Hasan Acar<br/>Matthias Geller<br/>Anna-Lena Stohrer |
+| Bambini | 2018 und jünger | Freitag              | 17:00-18:30                 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish    |
 | F2      | 2017            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Timo Hermann<br/>Alexander März                      |
 | F1      | 2016            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Carsten Gey<br/>Alexander März                       |
 
@@ -33,7 +33,7 @@ Sillerhalle <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel=
 
 | Jugend  | Jahrgang        | Tag      | Uhrzeit     | Trainer                                              |
 | :------ | :-------------- | :------- | :---------- | :--------------------------------------------------- |
-| Bambini | 2018 und jünger | Freitag  | 16:30-18:00 | Hasan Acar<br/>Matthias Geller<br/>Anna-Lena Stohrer |
+| Bambini | 2018 und jünger | Freitag  | 16:30-18:00 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish    |
 | F2      | 2017            | Mittwoch | 16:30-17:45 | Timo Hermann<br/>Alexander März                      |
 | F1      | 2016            | Mittwoch | 16:30-17:45 | Carsten Gey<br/>Alexander März                       |
 
