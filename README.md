@@ -6,7 +6,7 @@
 | :------------- | :---------- | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | So, 25.08.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. TSV Ottenbach II (Viktor & Matthias)                                                                                                              |
 | Sa, 21.09.2024 | Spieltag 1  | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis (G) für den Kreis GP<br/>Spielort für die F Jugend ist Deggingen<br/>[Spielpläne](/Spielpläne/) F und G |
-| Sa, 28.09.2024 | Spieltag 2  | 9:00-11:30       | Bambinis: Albershausen<br/>F-Jugend: Salach                                                                                                                     |
+| Sa, 28.09.2024 | Spieltag 2  | 9:00-11:30       | Bambinis: Albershausen (Gruppe 9 u. 10)<br/>F-Jugend: Salach (Gruppe 12)<br/>[Spielpläne](/Spielpläne/)                                                         |
 | Sa, 05.10.2024 | Spieltag 3  | 9:00-11:30       | Bambinis: KSG Eislingen<br/>F-Jugend: ?                                                                                                                         |
 | Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg<br/>F-Jugend: Deggingen                                                                                                                      |
 | Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
