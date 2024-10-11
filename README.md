@@ -8,7 +8,7 @@
 | Sa, 21.09.2024 | Spieltag 1  | 9:00-11:30/12:30 | Wir sind Ausrichter des Eröffnungsspieltag der Bambinis (G) für den Kreis GP<br/>Spielort für die F Jugend ist Deggingen<br/>[Spielpläne](/Spielpläne/) F und G |
 | Sa, 28.09.2024 | Spieltag 2  | 9:00-11:30       | Bambinis: Albershausen (Gruppe 9 u. 10)<br/>F-Jugend: Salach (Gruppe 12)<br/>[Spielpläne](/Spielpläne/)                                                         |
 | Sa, 05.10.2024 | Spieltag 3  | 9:00-11:30       | Bambinis: KSG Eislingen (Gruppe 9 u. 10)<br/>F-Jugend: TV Jebenhause (Gruppe 7)                                                                                 |
-| Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg (Gruppe 9 u. 10)<br/>F-Jugend: Deggingen (Gruppe 11)<br/>[Spielpläne](/Spielpläne/)                                                                                                                     |
+| Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg (Gruppe 9 u. 10)<br/>F-Jugend: Deggingen (Gruppe 11)<br/>[Spielpläne](/Spielpläne/)                                                          |
 | Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
 | Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren<br/>F-Jugend: Wäschenbeuren                                                                                                             |
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                                                                    |
