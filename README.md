@@ -10,7 +10,7 @@
 | Sa, 05.10.2024 | Spieltag 3  | 9:00-11:30       | Bambinis: KSG Eislingen (Gruppe 9 u. 10)<br/>F-Jugend: TV Jebenhause (Gruppe 7)                                                                                 |
 | Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg (Gruppe 9 u. 10)<br/>F-Jugend: Deggingen (Gruppe 11)<br/>[Spielpläne](/Spielpläne/)                                                          |
 | Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
-| Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren<br/>F-Jugend: Wäschenbeuren                                                                                                             |
+| Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren (Gruppe 9 u. 10)<br/>F-Jugend: Wäschenbeuren (Gruppe 11)                                                                                |
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                                                                    |
 | So, 27.10.2024 | Grilldienst | 14:30-16:30      | Zell u.A. vs. TSGV Alberhausen                                                                                                                                  |
 | Fr, 08.11.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
@@ -22,21 +22,21 @@
 
 Sportgelände <a href="https://goo.gl/maps/FJQeoiVucuZiPWvFA" target="_blank" rel="noopener noreferrer">Schlierbacher Str. 46, 73110 Hattenhofen</a>
 
-| Jugend  | Jahrgang        | Tag                  | Uhrzeit                     | Trainer                                              |
-| :------ | :-------------- | :------------------- | :-------------------------- | :--------------------------------------------------- |
-| Bambini | 2018 und jünger | Freitag              | 17:00-18:30                 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish    |
-| F2      | 2017            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Timo Hermann<br/>Alexander März                      |
-| F1      | 2016            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Carsten Gey<br/>Alexander März                       |
+| Jugend  | Jahrgang        | Tag                  | Uhrzeit                     | Trainer                                           |
+| :------ | :-------------- | :------------------- | :-------------------------- | :------------------------------------------------ |
+| Bambini | 2018 und jünger | Freitag              | 17:00-18:30                 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish |
+| F2      | 2017            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Timo Hermann<br/>Alexander März                   |
+| F1      | 2016            | Mittwoch<br/>Freitag | 17:30-19:00<br/>17:30-19:00 | Carsten Gey<br/>Alexander März                    |
 
 ### Winter
 
 Sillerhalle <a href="https://goo.gl/maps/6ABxqEwNToafWStF8" target="_blank" rel="noopener noreferrer">Hauptstraße 24, 73110 Hattenhofen</a>
 
-| Jugend  | Jahrgang        | Tag      | Uhrzeit     | Trainer                                              |
-| :------ | :-------------- | :------- | :---------- | :--------------------------------------------------- |
-| Bambini | 2018 und jünger | Freitag  | 16:30-18:00 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish    |
-| F2      | 2017            | Mittwoch | 16:30-17:45 | Timo Hermann<br/>Alexander März                      |
-| F1      | 2016            | Mittwoch | 16:30-17:45 | Carsten Gey<br/>Alexander März                       |
+| Jugend  | Jahrgang        | Tag      | Uhrzeit     | Trainer                                           |
+| :------ | :-------------- | :------- | :---------- | :------------------------------------------------ |
+| Bambini | 2018 und jünger | Freitag  | 16:30-18:00 | Hasan Acar<br/>Matthias Geller<br/>Asmaa Altweish |
+| F2      | 2017            | Mittwoch | 16:30-17:45 | Timo Hermann<br/>Alexander März                   |
+| F1      | 2016            | Mittwoch | 16:30-17:45 | Carsten Gey<br/>Alexander März                    |
 
 **Während den Ferienzeiten findet idR. kein Training statt.**
 
