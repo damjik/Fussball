@@ -10,7 +10,7 @@
 | Sa, 05.10.2024 | Spieltag 3  | 9:00-11:30       | Bambinis: KSG Eislingen (Gruppe 9 u. 10)<br/>F-Jugend: TV Jebenhause (Gruppe 7)                                                                                 |
 | Sa, 12.10.2024 | Spieltag 4  | 9:00-11:30       | Bambinis: Adelberg (Gruppe 9 u. 10)<br/>F-Jugend: Deggingen (Gruppe 11)<br/>[Spielpläne](/Spielpläne/)                                                          |
 | Fr, 18.10.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
-| Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren (Gruppe 9 u. 10)<br/>F-Jugend: Wäschenbeuren (Gruppe 11)                                                                                |
+| Sa, 19.10.2024 | Spieltag 5  | 9:00-11:30       | Bambinis: Wäschenbeuren (Gruppe 9 u. 10)<br/>F-Jugend: Wäschenbeuren (Gruppe 11)<br/>[Spielpläne](/Spielpläne/)                                                                                |
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                                                                    |
 | So, 27.10.2024 | Grilldienst | 14:30-16:30      | Zell u.A. vs. TSGV Alberhausen                                                                                                                                  |
 | Fr, 08.11.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
