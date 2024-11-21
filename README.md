@@ -14,6 +14,8 @@
 | So, 27.10.2024 | Grilldienst | 12:30-14:30      | Zell u.A. vs. Bad Ditzenbach                                                                                                                                    |
 | So, 27.10.2024 | Grilldienst | 14:30-16:30      | Zell u.A. vs. TSGV Alberhausen                                                                                                                                  |
 | Fr, 08.11.2024 | Training    | ganztägig        | Kein Hallentraining möglich (Halle gesperrt)                                                                                                                    |
+| Fr, 07.12.2024 | Jahresabschlußfeier | ab 17:00 | Jahresabschlußfeier Zell für Groß und Klein                                                                                                                     |
+| Sa, 08.12.2024 | Kinderweihnachtsfeier | ab 14:00 | Kinderweihnachtsfeier Hattenhofen                                                                                                                             |
 | So, 19.01.2025 | Turnier     | vormittags       | Bambini Turnier in Kuchen                                                                                                                                       |
 | Sa, 01.03.2025 | Turnier     | vormittags       | Bambini Turnier in Schlierbach                                                                                                                                  |
 
